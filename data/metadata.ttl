@@ -40,6 +40,7 @@
       cito:citesAsAuthority <https://www.cell.com/ajhg/fulltext/S0002-9297(16)30278-6> ;
       # Identifiers
       idot:preferredPrefix "bioit_fair_apps" ;
+      dct:identifier "pfeiffer" ;
       # Provenance and Change
       # Availability/Distributions
       dcat:accessURL <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/submit> ;
