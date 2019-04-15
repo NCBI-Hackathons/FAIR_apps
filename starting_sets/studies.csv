@@ -1,0 +1,753 @@
+projsym,method,abstract,mpdsector,paneldesc,nstrains,sexes,pophints,intervention,ages,pistring,projyear
+Ackerman1,"study archive","Lung, respiratory function, baseline and methacholine-challenged (several doses).",qtla,"QTL population",,f,"A/J x C3H/HeJ backcross",methacholine,7-8wks,"Ackerman KG, Churchill GA",2005
+Ackert1,"body size and weight","Body weight, body length, body mass index. Aging study, 6mo, 12mo, 20mo.",pheno,inbred,32,both,,,"26, 52, 87 wks","Ackert-Bicknell C, Beamer WG, Rosen CJ, Sundberg JP",2008
+Ackert1,DXA,"Body mass, fat mass, lean mass, bone mineral density and content, body area, bone area. Aging study, 6mo, 12mo, 20mo.",pheno,inbred,32,both,,,"26, 52, 87 wks","Ackert-Bicknell C, Beamer WG, Rosen CJ, Sundberg JP",2008
+Albers1,"lipid profile","Cholesterol, HDL, non-HDL, triglycerides, phospholipids. 4h fast, plasma. Baseline vs. high-fat diet (6wks).",pheno,inbred,15,both,,"high-fat diet",6-14wks,"Albers JJ, Paigen B",1999
+Albers1,"protein activity assessment","Phospholipid transfer protein activity. 4h fast.",pheno,inbred,15,both,,"high-fat diet",6-14wks,"Albers JJ, Paigen B",1999
+Ankra-Badu1,"study archive","Body, organ, fat pad weights, weight gain, litter size.",qtla,"QTL population",,both,"M16i x L6 F2 intercross",,2-10wks,"Ankra-Badu GA, Churchill GA",2009
+Attie1,"study archive","eQTL study of obesity and type 2 diabetes using microarray.",qtla,"QTL population",,both,"B6 x BTBR intercross.",,10wks,"Attie AD",2015
+Bachmanov1,"intake monitoring","Water intake. Daily.",pheno,inbred,13,m,,,7-8wks,"Bachmanov AA",2011
+Bachmanov1,"bottle choice test","Sodium chloride solution taste threshold. Fluid intake.",pheno,inbred,13,m,,,7-8wks,"Bachmanov AA",2011
+Bachmanov1,"body weight",,pheno,inbred,13,m,,,7-8wks,"Bachmanov AA",2011
+Bailey1,"study archive","Open field test. Locomotor activity, anxiety-related behavior.",qtla,"QTL population",,both,"C57BL/6J and C58/J",,8wks,"Bailey JS, Churchill GA",2008
+Bautz1,"study archive","Plasma lipids. Cholesterol, triglycerides.",qtla,"QTL population",,both,I/LnJ,,12-14wks,"Bautz DJ, Broman KW",2013
+Beamer1,"study archive","Bone volume.",qtla,"QTL population",,f,"C57BL/6J x CAST/EiJ intercross",,20wks,"Beamer WG",1999
+Beamer2,"study archive","Bone morphology and strength, insulin-like growth factor 1.",qtla,"QTL population",,f,"C57BL/6J x C3H/HeJ intercross F2 progeny",,16wks,"Beamer WG",2001
+Benavides1,"genotype assessment","Gpr84 allele assessment. PCR, sequencing.",pheno,"inbred w/CC8",58,both,,,6wks,"Benavides F, Guenet J",2013
+Bennett1,"body weight","Body weight and growth curve from 4wks to 26wks weighed monthly.",pheno,ILSXISS,97,f,,,6wks,"Bennett B, Johnson TE",2005
+Bennett2,"colony observation","Appearance, coat color.",pheno,ILSXISS,102,f,,,various,"Bennett B, Johnson TE",2005
+Bennett3,"alcohol quantification","Blood alcohol concentrations after ethanol injection over time, acute functional ethanol tolerance.",pheno,"ILSXISS w/par",74,both,,ethanol,8-14wks,"Bennett B, Johnson TE",2007
+Benoist1,"immune cell quantification","Regulatory T cells (Treg), thymus, spleen.",pheno,inbred,33,m,,,5-6wks,"Benoist C, Mathis D, Satpathy A, Feuerer M",2007
+Berndt1,ventilator,"Airway resistance. Baseline vs. methacholine-challenged (several doses).",pheno,inbred,37,both,,methacholine,9-12wks,"Berndt A, Leme AS, Paigen B, Shapiro SD",2010
+Berndt2,plethysmography,"Lung, respiratory function. Baseline vs. methacholine-challenged (several doses).",pheno,inbred,29,both,,methacholine,9-12wks,"Berndt A, Leme AS, Paigen B, Shapiro SD, Svenson KL",2010
+Berndt2,ventilator,"Lung, respiratory function. Anesthetized forced oscillation. Baseline vs. methacholine-challenged (several doses).",pheno,inbred,29,both,,methacholine,9-12wks,"Berndt A, Leme AS, Paigen B, Shapiro SD, Svenson KL",2010
+Berndt3,"metabolite quantification","Vitamin D concentration (serum).",pheno,inbred,18,m,,,11wks,"Berndt A",2011
+Berndt4,histopathology,"Lung adenoma frequency and severity at 20mo. Tumor incidence, cancer, aging.",pheno,inbred,28,both,,,87wks,"Berndt A, Harrison DE, Paigen B, Sundberg JP",2011
+Bodnar1,"intake monitoring","Food, caloric, water intake. Baseline and with sucrose (several concentrations). 24h test.",pheno,inbred,12,m,,sucrose,13-17wks,"Bodnar R, Kest B, Lewis S",2006
+Bolivar1,"open field test","Locomotor activity and exploratory behavior. 5 min test in dark.",pheno,inbred,10,both,,,8-14wks,"Bolivar VJ",2000
+Bolivar2,"fear conditioning test","Contextual fear, cued fear.",pheno,inbred,8,both,,,9-20wks,"Bolivar VJ",2001
+Bolivar3,"monitoring system","Social interaction (study 1 and study 2).",pheno,inbred,7,m,,,8-12wks,"Bolivar VJ",2007
+Bolivar4,"open field test","Locomotor activity, exploratory behavior, habituation scores. 15 min test.",pheno,inbred,14,m,,,8-12wks,"Bolivar VJ",2009
+Boon1,"body weight","Influenza A (H5N1) virus (several doses) vs. baseline.",pheno,inbred,23,f,,"influenza A (H5N1) virus",6-9wks,"Boon AC, Webby RJ",2011
+Boon1,"health assessment","Survival rate, influenza A (H5N1) virus (several doses). Strain H5N1 susceptibility score.",pheno,inbred,23,f,,"influenza A (H5N1) virus",6-9wks,"Boon AC, Webby RJ",2011
+Bopp1,"health assessment","Susceptibility, Plasmodium berghei (malaria). Parasitemia in blood and distribution in brain, spleen, lungs, liver.",pheno,inbred,31,both,,"Plasmodium berghei",8-12wks,"Bopp SE, Ramachandran V, Wiltshire T, Winzeler EA",2010
+Bouma1,"study archive","Fetal gonads microscopy study.",qtla,"QTL population",,m,"Dax1 XY backcross",,embryo,"Bouma GJ, Churchill GA",2005
+Brayton1,"study archive","Spontaneous diseases.",phenoarchive,inbred,,both,,,,"Brayton C",2013
+Brich1,"study archive","Protein tau hyperphosphorylation.",qtla,"QTL population",,f,"BALB/cByJ x C57BL/6J intercross",,3wks,"Brich J, Churchill GA",2003
+Broad2,genotyping,"SNP profiling, 131,000+ genomic locations, 1-19,X.",snp,inbred,89,,,,,"Daly M, Wade CM",2009
+Brockmann1,"study archive","Body, organ weights, litter size, abdominal fat, lipids, insulin, leptin.",qtla,"QTL population",,both,"DBA2J x NMRI8 and DBA2J x DU6i intercrosses",,3-6wks,"Brockmann GA, Churchill GA",2009
+Broman1,"study archive","Gut length.",qtla,"QTL population",,both,"C3HeB/FeJ x C57BL/6J intercross",,,"Broman KW",2006
+Brown1,"body weight",,pheno,inbred,14,both,,,10wks,"Brown RE, Gunn RK, Schellinck HM, Wong AA, O'Leary TP",2004
+Brown1,"elevated plus maze","Locomotor, exploratory, and anxiety-related behavior.",pheno,inbred,14,both,,,10wks,"Brown RE, Gunn RK, Schellinck HM, Wong AA, O'Leary TP",2004
+Brown1,"elevated zero maze","Locomotor, exploratory, and anxiety-related behavior.",pheno,inbred,14,both,,,10wks,"Brown RE, Gunn RK, Schellinck HM, Wong AA, O'Leary TP",2004
+Brown1,"light-dark box","Anxiety, avoidance behavior.",pheno,inbred,14,both,,,10wks,"Brown RE, Gunn RK, Schellinck HM, Wong AA, O'Leary TP",2004
+Brown1,"open field test","Locomotor, exploratory, and anxiety-related behavior.",pheno,inbred,14,both,,,10wks,"Brown RE, Gunn RK, Schellinck HM, Wong AA, O'Leary TP",2004
+Brown2,"Barnes circular maze","Spatial learning and memory.",pheno,inbred,14,both,,,10-18wks,"Brown RE, Schellinck HM, Gunn RK, Wong AA, O'Leary TP",2004
+Brown2,"Morris water maze","Spatial learning and memory.",pheno,inbred,14,both,,,10-18wks,"Brown RE, Schellinck HM, Gunn RK, Wong AA, O'Leary TP",2004
+Brown2,rotarod,"Latency to fall from accelerating rotarod. 7 day trials.",pheno,inbred,14,both,,,10-18wks,"Brown RE, Schellinck HM, Gunn RK, Wong AA, O'Leary TP",2004
+Brown2,"visual water box","Spatial learning and memory.",pheno,inbred,14,both,,,10-18wks,"Brown RE, Schellinck HM, Gunn RK, Wong AA, O'Leary TP",2004
+Brown2,"olfactory discrimination task","Olfactory-related learning and memory.",pheno,inbred,14,both,,,10-18wks,"Brown RE, Schellinck HM, Gunn RK, Wong AA, O'Leary TP",2004
+Brugnara1,"complete blood count",Hematology.,pheno,inbred,10,both,,,8wks,"Brugnara C, Peters LL",2013
+Brugnara1,"ion transport assessment","Hematology red cell ion content, ion transport.",pheno,inbred,10,both,,,8wks,"Brugnara C, Peters LL",2013
+Bubier2,"study archive","Intestinal microbiome study.",qtla,"CC pre",,both,,,,"Bubier JA",2014
+Burke1,"study archive","Femur and vertebra morphology and strength. Monthly body weight 3 - 13 months.",qtla,"QTL population",,f,"(BALBxB6) F1 x (C3HxDBA/2) F1",,14-56wks,"Burke DT, Churchill GA",2012
+CGD-MDA1,genotyping,"SNP profiling, 470,000+ genomic locations, 1-19,X,Y,MT.",snp,inbred,142,m,,,,"Center for Genome Dynamics (CGD)",2014
+CGD-MDA2,genotyping,"SNP profiling, 470,000+ genomic locations, 1-19,X,Y,MT.",snp,"BXD w/par",92,m,,,,"Center for Genome Dynamics (CGD)",2014
+CGD-MDA3,genotyping,"SNP profiling, 470,000+ genomic locations, 1-19,X,Y,MT.",snp,"ILSXISS w/par",69,m,,,,"Center for Genome Dynamics (CGD)",2014
+CGD-MDA4,genotyping,"SNP profiling, 470,000+ genomic locations, 1-19,X,Y,MT.",snp,"AXB, BXA, BXH, CXB, AKXL w/par",72,m,,,,"Center for Genome Dynamics (CGD)",2014
+CGD-MDA5,genotyping,"SNP profiling, 470,000+ genomic locations, 1-19,X,Y,MT.",snp,"B6.A, B6.PWD consomic panels",53,m,,,,"Center for Genome Dynamics (CGD)",2014
+CGDpheno1,"metabolic panel","Clinical blood chemistry (plasma). 4h fast.",pheno,"inbred w/CC8",72,both,,,10-13wks,"Center for Genome Dynamics (CGD)",2009
+CGDpheno1,"complete blood count",Hematology.,pheno,"inbred w/CC8",72,both,,,10-13wks,"Center for Genome Dynamics (CGD)",2009
+CGDpheno1,"lipid profile","Cholesterol, HDL, triglycerides, free fatty acids. 4h fast, plasma.",pheno,"inbred w/CC8",72,both,,,10-13wks,"Center for Genome Dynamics (CGD)",2009
+CGDpheno1,DXA,"Body mass, fat mass, lean mass, bone mineral density.",pheno,"inbred w/CC8",72,both,,,10-13wks,"Center for Genome Dynamics (CGD)",2009
+CGDpheno1,"body size and weight","Body weight and length.",pheno,"inbred w/CC8",72,both,,,10-13wks,"Center for Genome Dynamics (CGD)",2009
+CGDpheno2,"metabolic panel","Clinical blood chemistry (plasma), variation over time of controls. 4h fast.",onestrain,1strain,1,both,C57BL/6J,,,"Center for Genome Dynamics (CGD)",2009
+CGDpheno2,"complete blood count","Hematology. Variation over time of controls.",onestrain,1strain,1,both,C57BL/6J,,,"Center for Genome Dynamics (CGD)",2009
+CGDpheno2,"lipid profile","Cholesterol, HDL, triglycerides, free fatty acids. 4h fast, plasma. Variation over time of controls.",onestrain,1strain,1,both,C57BL/6J,,,"Center for Genome Dynamics (CGD)",2009
+CGDpheno2,DXA,"Body mass, fat mass, lean mass, bone mineral density. Variation over time of controls.",onestrain,1strain,1,both,C57BL/6J,,,"Center for Genome Dynamics (CGD)",2009
+CGDpheno2,"body size and weight","Body weight and length, variation over time of controls.",onestrain,1strain,1,both,C57BL/6J,,,"Center for Genome Dynamics (CGD)",2009
+CGDpheno3,"metabolic panel","Glucose (plasma). 4h fast.",pheno,"CC diallel w/par",62,both,,,8-16wks,"Center for Genome Dynamics (CGD)",2012
+CGDpheno3,"lipid profile","Cholesterol, HDL, triglycerides. 4h fast, plasma.",pheno,"CC diallel w/par",62,both,,,8-16wks,"Center for Genome Dynamics (CGD)",2012
+CGDpheno3,"complete blood count",Hematology.,pheno,"CC diallel w/par",62,both,,,8-16wks,"Center for Genome Dynamics (CGD)",2012
+CGDpheno3,"tail cuff","Heart rate and blood pressure. Conscious mice.",pheno,"CC diallel w/par",62,both,,,8-16wks,"Center for Genome Dynamics (CGD)",2012
+CGDpheno3,ECG,"Wave amplitudes and intervals. Conscious.",pheno,"CC diallel w/par",62,both,,,8-16wks,"Center for Genome Dynamics (CGD)",2012
+CGDpheno3,DXA,"Body mass, fat mass, lean mass, bone mineral density and content, bone area.",pheno,"CC diallel w/par",62,both,,,8-16wks,"Center for Genome Dynamics (CGD)",2012
+CGDpheno3,"body weight",,pheno,"CC diallel w/par",62,both,,,8-16wks,"Center for Genome Dynamics (CGD)",2012
+Chang1,"organ dimensions","Eye diameter.",pheno,inbred,17,both,,,10-13wks,"Chang B, Hawes NL, Davisson MT",2008
+Chang1,electroretinography,"Photoreceptor measures: rod Awave, Bwave, cone Bwave.",pheno,inbred,17,both,,,10-13wks,"Chang B, Hawes NL, Davisson MT",2008
+Chang2,"slit lamp","Eye morphology. Frequency rates of disorders.",pheno,"B6.PWD consomic w/par",28,both,,,44-61wks,"Chang B, Donahue L",2012
+Chang2,ophthalmoscopy,"Retinal spots, hypopigmentation.",pheno,"B6.PWD consomic w/par",28,both,,,44-61wks,"Chang B, Donahue L",2012
+Chen1,"immune cell quantification","Natural killer T cells in peripheral blood, spleen, thymus.",pheno,inbred,38,both,,,8-10wks,"Chen Y, Serreze DV",2011
+Chesler1,"nociception assay","Tail clip, Von Frey, Hargreaves, tail withdrawal, hot plate.",pheno,BXD,61,both,,,7-15wks,"Chesler EJ, Philip VM, Lariviere WR",2010
+Chesler2,"metabolic panel","Clinical blood chemistry. 16h fast.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"complete blood count",Hematology.,pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"colony observation","Reproduction, fecundity.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"open field test","Locomotor activity, exploratory, anxiety-related behavior. 10 min test.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"light-dark box","Anxiety, avoidance behavior. 10 min test.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"behavior observation","Wildness scoring.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"nociception assay","Hot plate and pressure on tail.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"monitoring system","Sleep patterns. Dark period, total, peak activity. Baseline and after sleep deprivation.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"body size and weight","Body weight, body length, tail length.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"fat pad weights","Gonadal fat pad weight.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler2,"organ weights","Heart, kidney weights.",pheno,"CC diallel w/par",62,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"metabolic panel","Clinical blood chemistry. 16h fast.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"complete blood count",Hematology.,pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"colony observation","Reproduction, fecundity.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"open field test","Locomotor activity, exploratory, anxiety-related behavior. 10 min test.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"light-dark box","Anxiety, avoidance behavior. 10 min test.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"behavior observation","Wildness scoring.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"nociception assay","Hot plate and pressure on tail.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"monitoring system","Sleep patterns. Dark period, total, peak activity. Baseline and after sleep deprivation.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"body size and weight","Body weight, tail length.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"fat pad weights","Gonadal fat pad weights.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"bone dimensions",Femur.,pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"organ weights","Heart, brain, kidney, spleen, gonadal fat pads, testicle weights.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler3,"organ dimensions","Kidney length and volume.",pheno,"CC pre w/par",367,both,,,7-15wks,"Chesler EJ, Philip VM, Voy BH",2011
+Chesler4,"open field test","Locomotor activity, exploratory, anxiety-related behavior. 20 min test.",pheno,"DO population w/par",9,both,,,12-16wks,"Logan RW, Robledo RF, Recla JM, Chesler EJ",2013
+Chesler4,"visual cliff","Anxiety, avoidance behavior. 20 min test.",pheno,"DO population w/par",9,both,,,12-16wks,"Logan RW, Robledo RF, Recla JM, Chesler EJ",2013
+Chesler4,"light-dark box","Anxiety, avoidance behavior. 20 min test.",pheno,"DO population w/par",9,both,,,12-16wks,"Logan RW, Robledo RF, Recla JM, Chesler EJ",2013
+Chesler4,"tail suspension test","Frequency climbing, time immobile, latency immobile. 5 min test.",pheno,"DO population w/par",9,both,,,12-16wks,"Logan RW, Robledo RF, Recla JM, Chesler EJ",2013
+Chesler4,"nociception assay","Hot plate.",pheno,"DO population w/par",9,both,,,12-16wks,"Logan RW, Robledo RF, Recla JM, Chesler EJ",2013
+Chesler4,"body weight",,pheno,"DO population w/par",9,both,,,12-16wks,"Logan RW, Robledo RF, Recla JM, Chesler EJ",2013
+Chesler5,"study archive","Intestinal microbiome study.",phenoarchive,inbred,10,both,,,,"Chesler EJ, Bubier JA, Podar M",2012
+Chesler6,"study archive","Sensitivity to ethanol. Baseline and ethanol.",qtla,"QTL population",,both,"C57BL/6J x 129S1/SvImJ",ethanol,9-34wks,"Chesler EJ",2012
+Cheverud1,"body weight","Body weight and growth curve from age 1wk to 22wks (pre-wean, post-wean, adult). High-fat diet (17wks) vs. control.",pheno,"LGXSM w/par",19,both,,"high-fat diet",12-16wks,"Cheverud JM",2004
+Cheverud1,"fat pad weights","High-fat diet (17wks) vs. control.",pheno,"LGXSM w/par",19,both,,"high-fat diet",12-16wks,"Cheverud JM",2004
+Cheverud1,"glucose tolerance","High-fat diet (17wks) vs. control. 0 to 120 min after 10% glucose i.p. 4h fast.",pheno,"LGXSM w/par",19,both,,"high-fat diet",12-16wks,"Cheverud JM",2004
+Cheverud1,"lipid profile","Cholesterol, triglycerides, free fatty acids. High-fat diet (17wks) vs. control. 4h fast, serum.",pheno,"LGXSM w/par",19,both,,"high-fat diet",12-16wks,"Cheverud JM",2004
+Cheverud1,"organ weights","Heart, liver, kidney, spleen weights after high-fat diet (17wks) vs. control.",pheno,"LGXSM w/par",19,both,,"high-fat diet",12-16wks,"Cheverud JM",2004
+Cheverud1,"hormone quantification","Insulin, leptin.",pheno,"LGXSM w/par",19,both,,"high-fat diet",12-16wks,"Cheverud JM",2004
+Churchill1,DXA,"Body mass, fat mass, lean mass, bone mineral density and content, bone area.",pheno,"F1 8way",63,both,,,7-8wks,"Churchill GA, Baldwin C",2004
+Churchill1,"organ dimensions","Ear length (pinal).",pheno,"F1 8way",63,both,,,7-8wks,"Churchill GA, Baldwin C",2004
+Churchill1,"muscle weights","Quadriceps muscle.",pheno,"F1 8way",63,both,,,7-8wks,"Churchill GA, Baldwin C",2004
+Clemens1,"study archive","Immunosuppression of contact hypersensitivity after ultraviolet light exposure",qtla,"QTL population",,both,"BALB/cAnNCrl x C57BL/6NCrl backcross","ultraviolet light",9-30wks,"Clemens KE, Churchill GA",2000
+Collins1,"complete blood count",Hematology.,pheno,"CC pre w/par",139,m,,,10-14wks,"Collins FS",2012
+Cowell1,"health assessment","Survival rate, Staphylococcus aureus.",pheno,inbred,13,f,,"Staphylococcus aureus",8wks,"Cowell LG, Fowler VG",2012
+Cowell1,"hormone quantification","Interleukin 6 levels (serum) after infection with Staphylococcus aureus. Kidney and peritoneal fluid.",pheno,inbred,13,f,,"Staphylococcus aureus",8wks,"Cowell LG, Fowler VG",2012
+Cowell1,"in vitro assay","Bacterial load after infection with Staphylococcus aureus. Kidney and peritoneal fluid. In vitro assay.",pheno,inbred,13,f,,"Staphylococcus aureus",8wks,"Cowell LG, Fowler VG",2012
+Crabbe1,"balance beam","Ethanol i.p. (several doses) vs. control (saline). Missteps count. 3 beam lengths.",pheno,inbred,8,both,,ethanol,8wks,"Crabbe JC, Wahlsten D",2003
+Crabbe1,"grid test","Ethanol injection (several doses) vs. control (saline). Grid habituation, missteps rate.",pheno,inbred,8,both,,ethanol,8wks,"Crabbe JC, Wahlsten D",2003
+Crabbe1,"body weight",,pheno,inbred,8,both,,ethanol,8wks,"Crabbe JC, Wahlsten D",2003
+Crabbe2,rotarod,"Latency to fall from 5 rpm rotarod immediately after diazepam injection.",pheno,inbred,15,both,,diazepam,6-7wks,"Crabbe JC, Gallaher EJ, Belknap JK",1998
+Crabbe2,"drug and metabolite quantification","Diazepam (and metabolite) concentration in brain tissue immediately after diazepam injection and rotarod.",pheno,inbred,15,both,,diazepam,6-7wks,"Crabbe JC, Gallaher EJ, Belknap JK",1998
+Crabbe2,"monitoring system","Locomotor activity. Baseline vs. immediately after Diazepam injection (several doses). 15 min test.",pheno,inbred,15,both,,diazepam,6-7wks,"Crabbe JC, Gallaher EJ, Belknap JK",1998
+Crabbe2,"body temperature","Baseline vs. 30 min after diazepam injection (several doses).",pheno,inbred,15,both,,diazepam,6-7wks,"Crabbe JC, Gallaher EJ, Belknap JK",1998
+Crabbe3,"body weight",,pheno,inbred,22,both,,ethanol,9-17wks,"Crabbe JC, Wahlsten D",2003
+Crabbe3,rotarod,"Baseline and ethanol i.p. 3 fixed speeds (several doses) and accelerating.",pheno,inbred,22,both,,ethanol,9-17wks,"Crabbe JC, Wahlsten D",2003
+Crabbe4,"dowel balance test","Latency to fall 0 min and 30 min post-injection, 2 widths. Ethanol 2 g/kg.",pheno,inbred,21,both,,ethanol,9-17wks,"Crabbe JC, Metten P, Wahlsten D",2003
+Crabbe4,"vertical wire mesh","Latency to fall 30 min post-injection. Ethanol 2 g/kg i.p.",pheno,inbred,21,both,,ethanol,9-17wks,"Crabbe JC, Metten P, Wahlsten D",2003
+Crabbe4,"grip strength","Baseline vs. 30 min after ethanol 2 g/kg i.p.",pheno,inbred,21,both,,ethanol,9-17wks,"Crabbe JC, Metten P, Wahlsten D",2003
+Crabbe4,"alcohol quantification","Blood alcohol concentration after ethanol 2 g/kg i.p., several timepoints.",pheno,inbred,21,both,,ethanol,9-17wks,"Crabbe JC, Metten P, Wahlsten D",2003
+Crabbe5,"parallel rod floor test","Parallel rod balance test, baseline vs. ethanol 2 g/kg i.p..",pheno,inbred,8,both,,ethanol,7-14wks,"Crabbe JC",2005
+Crowley1,"body weight","Baseline vs. after haloperidol 60d implant.",pheno,"inbred w/CC8",27,m,,haloperidol,9-28wks,"Crowley JJ, McLeod HL, Sullivan PF",2012
+Crowley1,"drug and metabolite quantification","Haloperidol concentration (plasma). Baseline vs. during and after haloperidol 60d implant (several timepoints).",pheno,"inbred w/CC8",27,m,,haloperidol,9-28wks,"Crowley JJ, McLeod HL, Sullivan PF",2012
+Crowley1,"inclined screen test","Baseline vs. during and after haloperidol 60d implant (several timepoints).",pheno,"inbred w/CC8",27,m,,haloperidol,9-28wks,"Crowley JJ, McLeod HL, Sullivan PF",2012
+Crowley1,"open field test","Locomotor activity, exploratory behavior, involuntary movement. Baseline vs. haloperidol 60d implant (several timepoints). 60 min test.",pheno,"inbred w/CC8",27,m,,haloperidol,9-28wks,"Crowley JJ, McLeod HL, Sullivan PF",2012
+Crowley1,"behavior observation","Observed involuntary repetitive movement. Baseline vs. during and after haloperidol 60d implant (several timepoints).",pheno,"inbred w/CC8",27,m,,haloperidol,9-28wks,"Crowley JJ, McLeod HL, Sullivan PF",2012
+Crusio1,"body weight",,pheno,"BXD w/par",55,both,,,10-16wks,"Delprato A, Crusio WE",2018
+Crusio1,"open field test","Locomotor activity and exploratory behavior. 20 min test.",pheno,"BXD w/par",55,both,,,10-16wks,"Delprato A, Crusio WE",2018
+Crusio1,"radial maze","Spatial learning.",pheno,"BXD w/par",55,both,,,10-16wks,"Delprato A, Crusio WE",2018
+Crusio1,"behavior observation","Inter-male agression.",pheno,"BXD w/par",55,both,,,10-16wks,"Delprato A, Crusio WE",2018
+Crusio1,"organ weights","Brain weight.",pheno,"BXD w/par",55,both,,,10-16wks,"Delprato A, Crusio WE",2018
+Crusio1,histopathology,"Hippocampal histology.",pheno,"BXD w/par",55,both,,,10-16wks,"Delprato A, Crusio WE",2018
+Davidson1,"study archive","Exencephaly, neural tube defects in embryos.",qtla,"QTL population",,both,"BALB/cJ x FVB/NJ reciprocal backcross",,embryo,"Davidson CE, Churchill GA",2007
+Deschepper1,"body weight",,pheno,inbred,13,both,,,10wks,"Deschepper CF, Gallo-Payet N",2004
+Deschepper1,"organ weights","Heart, kidney, thymus, adrena weights.",pheno,inbred,13,both,,,10wks,"Deschepper CF, Gallo-Payet N",2004
+Deschepper1,"tail cuff","Blood pressure.",pheno,inbred,13,both,,,10wks,"Deschepper CF, Gallo-Payet N",2004
+Dickson1,"operant conditioning chamber","Sign tracking and goal tracking paradigm with Pavlovian conditioned approach.",pheno,inbred,5,both,,,12-20wks,"Dickson PE, Chesler EJ",2015
+Dickson2,"open field test","Locomotor activity and exploratory behavior. 20 min test.",pheno,"DO population",1,both,,cocaine,12-16wks,"Dickson PE, Chesler EJ",2015
+Dickson2,"hole board test","Exploratory behavior. 10 min test.",pheno,"DO population",1,both,,cocaine,12-16wks,"Dickson PE, Chesler EJ",2015
+Dickson2,"monitoring system","Novelty preference test (preference for novel side vs. familiar side). 10 min test.",pheno,"DO population",1,both,,cocaine,12-16wks,"Dickson PE, Chesler EJ",2015
+Dickson2,"operant conditioning chamber","Intravenous self-administration of cocaine via activation of levers.",pheno,"DO population",1,both,,cocaine,12-16wks,"Dickson PE, Chesler EJ",2015
+DiCurzio1,"body weight",,pheno,"BXD w/par",66,both,,,10wks,"Di Curzio DL, Goldowitz D",2010
+DiCurzio1,"organ weights","Adrenal weight.",pheno,"BXD w/par",66,both,,,10wks,"Di Curzio DL, Goldowitz D",2010
+DiCurzio1,histopathology,"Adrenal glands.",pheno,"BXD w/par",66,both,,,10wks,"Di Curzio DL, Goldowitz D",2010
+Dietrich1,"in vitro assay","Bacillus anthracis lethal toxin (anthrax) susceptibility.",pheno,inbred,50,f,,"Bacillus anthracis lethal toxin",6-8wks*,"Dietrich WF",1998
+DiPetrillo1,urinalysis,"Microalbumin, creatinine, ratio.",pheno,"inbred w/CC7",34,m,,,10wks,"DiPetrillo K",2012
+DiPetrillo2,urinalysis,"Microalbumin, creatinine, ratio.",pheno,"CC pre w/par",163,m,,,10wks,"DiPetrillo K",2012
+DiPetrillo3,"study archive","Blood pressure (tail cuff), heart rate, heart weight.",qtla,"QTL population",,both,"C3H x SWR intercross F2 progeny",,8wks,"DiPetrillo K",2004
+Donahue1,DXA,"Body mass, fat mass, lean mass, bone mineral density and content, craniofacial dimensions.",pheno,"inbred w/CC7",30,both,,,15-16wks,"Donahue L",2002
+Donahue1,"metabolic panel","Thyroxine (serum).",pheno,"inbred w/CC7",30,both,,,15-16wks,"Donahue L",2002
+Donahue1,"hormone quantification","Osteocalcin, insulin-like growth factor 1.",pheno,"inbred w/CC7",30,both,,,15-16wks,"Donahue L",2002
+Donahue10,"colony observation","Reproduction, fecundity. Litter size, litter interval, percent weaned, pup sexes.",pheno,"B6.A consomic",20,f,,,3-53wks,"Donahue L",2011
+Donahue11,"colony observation","Reproduction, fecundity. Litter size, litter interval, percent weaned, pup sexes.",pheno,"B6.PWD consomic",26,f,,,4-55wks,"Donahue L",2011
+Donahue12,"colony observation","Reproduction, fecundity. Litter size, litter interval, percent weaned, pup sexes.",pheno,"AXB BXA",28,f,,,3-50wks,"Donahue L",2011
+Donahue13,"colony observation","Reproduction, fecundity. Litter size, litter interval, percent weaned, pup sexes.",pheno,CXB,13,f,,,3-50wks,"Donahue L",2011
+Donahue14,"colony observation","Reproduction, fecundity. Litter size, litter interval, percent weaned, pup sexes.",pheno,BXD,42,f,,,3-60wks,"Donahue L",2011
+Donahue15,"colony observation","Reproduction, fecundity. Litter size, litter interval, percent weaned, pup sexes.",pheno,BXH,11,f,,,3-55wks,"Donahue L",2011
+Donahue16,DXA,"Body mass, fat mass, bone mineral density.",pheno,"B6.A consomic w/par",23,both,,,24-29wks,"Donahue L",2012
+Donahue17,"colony observation","Reproduction, fecundity. Litter size, litter interval, percent weaned, pup sexes.",pheno,BXD,30,f,,,3-57wks,"Donahue L",2011
+Donahue18,"monitoring system","Gestation duration and weight gain during pregnancy.",pheno,inbred,15,f,,,6-8wks,"Donahue L",2010
+Donahue18,"colony observation","Reproduction, fecundity. Litter size, percent survival to day 3.",pheno,inbred,15,f,,,6-8wks,"Donahue L",2010
+Donahue18,"body weight","Pup body weight at day 3.",pheno,inbred,15,f,,,6-8wks,"Donahue L",2010
+Donahue19,"monitoring system","Gestation duration and weight gain during pregnancy.",pheno,"B6.A consomic w/par",22,f,,,6-8wks,"Donahue L",2010
+Donahue19,"colony observation","Reproduction, fecundity. Litter size, percent survival to day 3.",pheno,"B6.A consomic w/par",22,f,,,6-8wks,"Donahue L",2010
+Donahue19,"body weight","Pup body weight at day 3.",pheno,"B6.A consomic w/par",22,f,,,6-8wks,"Donahue L",2010
+Donahue2,"body weight",,pheno,inbred,10,both,,,16wks,"Donahue L, Beamer WG, Bogue MA, Churchill GA",2004
+Donahue2,"muscle weights","Quadriceps muscle.",pheno,inbred,10,both,,,16wks,"Donahue L, Beamer WG, Bogue MA, Churchill GA",2004
+Donahue2,DXA,"Femur bone mineral density and content, thigh cross sectional areas.",pheno,inbred,10,both,,,16wks,"Donahue L, Beamer WG, Bogue MA, Churchill GA",2004
+Donahue2,"bone dimensions",Femur.,pheno,inbred,10,both,,,16wks,"Donahue L, Beamer WG, Bogue MA, Churchill GA",2004
+Donahue2,"computed tomography","Bone morphology (femur).",pheno,inbred,10,both,,,16wks,"Donahue L, Beamer WG, Bogue MA, Churchill GA",2004
+Donahue2,"biomechanical test","Bone strength.",pheno,inbred,10,both,,,16wks,"Donahue L, Beamer WG, Bogue MA, Churchill GA",2004
+Donahue3,"open field test","Locomotor activity, anxiety-related behavior, involuntary movement. 10 min test.",pheno,"B6.A consomic w/par",22,both,,,6-7wks,"Donahue L, Lake J",2011
+Donahue3,"hole board test","Exploratory behavior. 10 min test.",pheno,"B6.A consomic w/par",22,both,,,6-7wks,"Donahue L, Lake J",2011
+Donahue4,"open field test","Locomotor activity, anxiety-related behavior, involuntary repetitive movement. 10 min test.",pheno,"B6.PWD consomic w/par",28,both,,,6wks,"Donahue L",2011
+Donahue5,"immune cell quantification","White blood cell and immune cell differentials.",pheno,"B6.A consomic w/par",22,both,,,7wks,"Donahue L",2011
+Donahue6,"immune cell quantification","White blood cell and immune cell differentials.",pheno,"B6.PWD consomic w/par",28,both,,,7wks,"Donahue L",2011
+Donahue7,"immunoglobulin quantification","Immunoglobulin concentrations (plasma).",pheno,"B6.A consomic w/par",22,both,,,9wks,"Donahue L",2012
+Donahue8,"immunoglobulin quantification","Immunoglobulin concentrations (plasma).",pheno,"B6.PWD consomic w/par",28,both,,,9wks,"Donahue L",2011
+Donahue9,"metabolic panel","Clinical blood chemistry (serum). 4h fast.",pheno,"B6.PWD consomic w/par",25,both,,,11wks,"Donahue L",2011
+Doorenbos1,"study archive","Urinalysis. Creatinine, microalbumin, body weight.",qtla,"QTL population",,m,"C57BL/6J x A/J and A/J x B6.Apoe-/- intercrosses",,8-10wks,"Doorenbos C, Churchill GA",2008
+Dorward1,"study archive","Ovarian granulosa cell tumors histopathology.",qtla,"QTL population",,f,"CAST/EiJ x SWXJ9/BmJ intercross",,8wks,"Dorward AM, Churchill GA",2005
+Dzur-Gejdosova1,"study archive","Sterility investigation. Sperm count, testes weight.",qtla,"QTL population",,m,"PWD/Ph and C57BL/6J backcross",,9wks,"Dzur-Gejdosova1 M, Simecek P",2012
+Esposito1,histopathology,"Frequency rates of disorders seen during histopathology survey of various organs.",phenoarchive,inbred,6,both,,,,"Esposito I",2013
+Eumorphia1,"complete blood count",Hematology.,pheno,inbred,8,both,,,12wks,"Eumorphia / Europhenome",2007
+Eumorphia1,"lipid profile","Cholesterol, HDL, non-HDL, triglycerides, free fatty acids. Plasma.",pheno,inbred,8,both,,,12wks,"Eumorphia / Europhenome",2007
+Eumorphia1,"metabolic panel","Clinical blood chemistry (plasma). Unknown fast.",pheno,inbred,8,both,,,12wks,"Eumorphia / Europhenome",2007
+Eumorphia2,DXA,"Body mass, fat mass, lean mass, bone mineral density and content.",pheno,inbred,5,both,,,"12, 24, 52 wks","Eumorphia / Europhenome",2008
+Eumorphia3,"glucose tolerance","0 to 180 min after 20% glucose i.p. 16h fast.",pheno,inbred,4,both,,,"12, 24, 52 wks","Eumorphia / Europhenome",2008
+Eumorphia4,"intake monitoring","Food intake. Daily.",pheno,inbred,4,both,,,"12, 24 wks","Eumorphia / Europhenome",2008
+Eumorphia5,"body temperature","Hourly readings in cold room. 6h test.",pheno,inbred,4,both,,,12wks,"Eumorphia / Europhenome",2008
+Eumorphia6,echocardiography,"Cardiovascular function and morphology.",pheno,inbred,4,both,,,12wks,"Eumorphia / Europhenome",2008
+Eumorphia6,"organ weights","Cardiac ventricle weight.",pheno,inbred,4,both,,,12wks,"Eumorphia / Europhenome",2008
+Eumorphia6,"tail cuff","Heart rate.",pheno,inbred,4,both,,,12wks,"Eumorphia / Europhenome",2008
+Eumorphia7,"immunoglobulin quantification","Immunoglobulin concentrations (serum).",pheno,inbred,6,both,,,9-12wks,"Eumorphia / Europhenome",2008
+Everett1,"body weight",,pheno,inbred,14,both,,,9-12wks,"Everett ET",2003
+Everett1,"bone dimensions","Craniofacial bone dimensions.",pheno,inbred,14,both,,,9-12wks,"Everett ET",2003
+Evsikova1,"body weight",,pheno,inbred,14,both,,,25wks,"Evsikova CM, Svenson KL",2009
+Evsikova1,"monitoring system","Locomotor activity. Aging study. 24h test with 12h light and 12h dark phases.",pheno,inbred,14,both,,,25wks,"Evsikova CM, Svenson KL",2009
+Evsikova1,"intake monitoring","Food intake, water intake at 6mo. Light phase, dark phase, total.",pheno,inbred,14,both,,,25wks,"Evsikova CM, Svenson KL",2009
+Farmer1,"study archive","Colitis susceptibility, severity. Colon histopathology, body and spleen weight.",qtla,"QTL population",,both,"IL-10-deficient mice",,6wks,"Farmer MA, Churchill GA",2001
+Feng1,"study archive","Blood pressure (tail cuff), kidney weight, body weight.",qtla,"QTL population",,m,"8 mouse intercross populations",,8wks,"Feng M, Churchill GA",2009
+Ferris1,"body weight",,pheno,"CC pre w/par",163,f,,"influenza A (H1N1) virus",8-16wks,"Ferris MT, Bottomly D, McWeeney SK, Heise MT",2012
+Ferris1,"health assessment","Clinical health assessment score and strain susceptibility index 4 days after infection with influenza A (H1N1) virus.",pheno,"CC pre w/par",163,f,,"influenza A (H1N1) virus",8-16wks,"Ferris MT, Bottomly D, McWeeney SK, Heise MT",2012
+Ferris1,"in vitro assay","Viral replication log titer 4 days after infection with influenza A (H1N1) virus. In vitro.",pheno,"CC pre w/par",163,f,,"influenza A (H1N1) virus",8-16wks,"Ferris MT, Bottomly D, McWeeney SK, Heise MT",2012
+Ferris1,histopathology,"Lungs and airway 4 days after infection with influenza A (H1N1) virus.",pheno,"CC pre w/par",163,f,,"influenza A (H1N1) virus",8-16wks,"Ferris MT, Bottomly D, McWeeney SK, Heise MT",2012
+Finn1,"bottle choice test","Voluntary consumption of ethanol, and ethanol with saccharin (several doses in water).",pheno,inbred,22,both,,,8-12wks,"Finn DA, Murillo A, Yoneyama N, Crabbe JC",2007
+Flaherty1,"elevated zero maze","Anxiety-related behaviors.",pheno,inbred,8,both,,,8-9wks,"Flaherty L, Cook MN, Williams RW",2001
+Frankel1,"electroconvulsion test","Electroconvulsive thresholds. Lamotrigine. 2 test sites.",pheno,inbred,16,both,,lamotrigine,6-11wks,"Frankel WN, White HS",2000
+Gatti2,"study archive","Whole blood neutrophil count and white cell count.",qtla,"DO population",1,both,,,10-12wks,"Gatti DM",2014
+Gavras1,"tail cuff","Heart rate and blood pressure. Sodium chloride (1% solution for 2wks) vs. control.",pheno,inbred,11,both,,"sodium chloride",9-12wks,"Gavras H, Johns C, Paigen B, Peters LL",2003
+Gershenfeld1,"tail suspension test","Immobility. Baseline (saline) vs. imipramine i.p. 6 min test.",pheno,inbred,12,m,,imipramine,5-10wks,"Gershenfeld HK",2003
+Gershenfeld1,"light-dark box","Anxiety-related behavior. Baseline (saline) vs. imipramine i.p. 10 min test.",pheno,inbred,12,m,,imipramine,5-10wks,"Gershenfeld HK",2003
+Gershenfeld1,"open field test","Locomotor activity, exploratory and anxiety-related behavior. Baseline (saline) vs. imipramine i.p.",pheno,inbred,12,m,,imipramine,5-10wks,"Gershenfeld HK",2003
+Golani1,"open field test","Locomotor activity, exploratory and anxiety-related behavior.",pheno,inbred,8,m,,,10wks,"Golani I, Elmer GI, Kafkafi N, Benjamini Y",2003
+Gould1,"forced swim test","Lithium (several doses) vs. control. 6 min test.",pheno,inbred,11,m,,lithium,7-8wks,"Can A, Gould TD",2011
+Gould1,"drug and metabolite quantification","Lithium concentration in brain tissue and blood serum after lithium (several doses).",pheno,inbred,11,m,,lithium,7-8wks,"Can A, Gould TD",2011
+Gould2,"drug and metabolite quantification","Amount of nicotine and cotinine in blood plasma after nicotine doses. High and lower doses.",pheno,inbred,8,m,,nicotine,8-12wks,"Portugal GS, Gould TJ",2011
+Gould2,"behavior observation","Observed measures of anxiety. Nicotine (high dose) vs. control. 20 min period.",pheno,inbred,8,m,,nicotine,8-12wks,"Portugal GS, Gould TJ",2011
+Gould2,"elevated plus maze","Measures of anxiety. Nicotine (high dose) vs. control. 5 min test.",pheno,inbred,8,m,,nicotine,8-12wks,"Portugal GS, Gould TJ",2011
+Gould2,"fear conditioning test","Contextual fear, cued fear. Nicotine (high and several lower doses) vs. control.",pheno,inbred,8,m,,nicotine,8-12wks,"Portugal GS, Gould TJ",2011
+Gould3,"behavior observation","Observed measures of anxiety during nicotine withdrawal. Nicotine (several high doses) vs. control.",pheno,inbred,8,m,,nicotine,8-12wks,"Portugal GS, Gould TJ",2011
+Gould3,"elevated plus maze","Measures of anxiety during nicotine withdrawal. Nicotine (several high doses) vs. control.",pheno,inbred,8,m,,nicotine,8-12wks,"Portugal GS, Gould TJ",2011
+Gould3,"fear conditioning test","Contextual fear, cued fear during nicotine withdrawal. Nicotine (high and several lower doses) vs. control.",pheno,inbred,8,m,,nicotine,8-12wks,"Portugal GS, Gould TJ",2011
+Gould4,"conditioned place preference test","Nicotine preference and learning effect. Nicotine-treated vs. control. 2 trials (day 5, day 10).",pheno,inbred,8,m,,nicotine,8-10wks,"Kutlu MG, Ortega LA, Gould TJ",2014
+Graham1,"body weight",,pheno,"CC RIX",5,m,,"West Nile virus",8-10wks,"Graham JB, Thomas S, Gale Jr. M, Lund JM",2015
+Graham1,"health assessment","Clinical score.",pheno,"CC RIX",5,m,,"West Nile virus",8-10wks,"Graham JB, Thomas S, Gale Jr. M, Lund JM",2015
+Graham1,"immune cell quantification","T cell populations in brain and spleen.",pheno,"CC RIX",5,m,,"West Nile virus",8-10wks,"Graham JB, Thomas S, Gale Jr. M, Lund JM",2015
+Graham1,"RNA expression profiling","Viral load and expression of Ifnb1 and Ifit1 in brain, kidney and spleen.",pheno,"CC RIX",5,m,,"West Nile virus",8-10wks,"Graham JB, Thomas S, Gale Jr. M, Lund JM",2015
+Graubert1,"complete blood count",Hematology.,pheno,inbred,20,both,,ENU,"9wks; 12-64wks","Graubert TA, Watters JW, McLeod HL",2006
+Graubert1,histopathology,"Tumor growth frequency rates. ENU mutagen 100 mg/kg vs. control.",pheno,inbred,20,both,,ENU,"9wks; 12-64wks","Graubert TA, Watters JW, McLeod HL",2006
+Gros1,"in vitro assay","Susceptibility to infection with Candida albicans.",pheno,inbred,36,f,,"Candida albicans",8-12wks,"Radovanovic I, Mullick A, Gros P",2011
+Gros1,"genotype assessment","C5 allele sufficiency or deficiency.",pheno,inbred,36,f,,"Candida albicans",8-12wks,"Radovanovic I, Mullick A, Gros P",2011
+Gros2,"health assessment","Survival score and susceptibility, Plasmodium chabaudi.",pheno,inbred,25,both,,"Plasmodium chabaudi",8-10wks,"Gros P",2012
+Gros2,microscopy,"Percent of Plasmodium chabaudi-infected erythrocytes in blood.",pheno,inbred,25,both,,"Plasmodium chabaudi",8-10wks,"Gros P",2012
+Guay-Woodford1,"study archive","Kidney morphology, renal cystic disease severity.",qtla,"QTL population",,f,"BALB/c-Bicc1jcpk-bpk x CAST/EiJ F2 progeny",,2wks,"Guay-Woodford LM, Churchill GA",2000
+Gupta1,"body weight","Body weight of newborns.",pheno,inbred,8,both,,,postnatal,"Gupta IR",2011
+Gupta1,"organ weights","Kidney weight of newborns.",pheno,inbred,8,both,,,postnatal,"Gupta IR",2011
+Gupta1,"organ dimensions","Kidney morphology of newborns. Planar surface area.",pheno,inbred,8,both,,,postnatal,"Gupta IR",2011
+Gupta1,"renal function assay","Vesico-ureteric reflux in newborns. Kidney function.",pheno,inbred,8,both,,,postnatal,"Gupta IR",2011
+Gupta2,"body weight","Body weight of newborns.",pheno,BXH,10,both,,,postnatal,"Gupta IR",2011
+Gupta2,"organ weights","Kidney weight of newborns.",pheno,BXH,10,both,,,postnatal,"Gupta IR",2011
+Gupta2,"organ dimensions","Kidney morphology of newborns. Planar surface area.",pheno,BXH,10,both,,,postnatal,"Gupta IR",2011
+Gupta2,"renal function assay","Vesico-ureteric reflux in newborns. Kidney function.",pheno,BXH,10,both,,,postnatal,"Gupta IR",2011
+Hackstein1,"immune cell quantification","Respiratory dendritic cell subsets and lymphocyte populations.",pheno,inbred,5,m,,,7-11wks,"Hackstein H",2012
+Hadsell1,"colony observation","Maternal nurturing study.",pheno,inbred,31,f,,,14-18wks,"Hadsell DL",2012
+Hadsell1,"body weight","Daily body weight gain of cross-fostered pups.",pheno,inbred,31,f,,,14-18wks,"Hadsell DL",2012
+Hageman1,"study archive","eQTL, urinary albumin excretion using microarray.",qtla,"QTL population",,m,"MSxSM F2 intercross",,8-10wks,"Hageman RS, Churchill GA",2011
+Hampton1,ECG,"Heart rate and wave intervals. Conscious.",pheno,inbred,17,both,,,9-12wks,"Hampton TG, Paigen B, Seburn KL",2001
+Handel1,"body weight",,pheno,inbred,14,m,,,8-10wks,"Handel M",2010
+Handel1,"organ weights","Male reproductive organ weights. Seminal vesicles, testicles.",pheno,inbred,14,m,,,8-10wks,"Handel M",2010
+Handel1,"sperm count","Sperm count. Hemocytometer.",pheno,inbred,14,m,,,8-10wks,"Handel M",2010
+Harrill1,"body weight","Body weight. Isoniazid-treated vs. control.",pheno,inbred,34,f,,isoniazid,8-10wks,"Harrill A",2011
+Harrill1,"organ weights","Body, liver, kidney weights. Isoniazid-treated vs. control.",pheno,inbred,34,f,,isoniazid,8-10wks,"Harrill A",2011
+Harrill1,"metabolic panel","Alanine transaminase. Isoniazid-treated vs. control.",pheno,inbred,34,f,,isoniazid,8-10wks,"Harrill A",2011
+Harrill1,"lipid profile","Cholesterol, triglycerides. Hepatic lipids. Isoniazid-treated vs. control.",pheno,inbred,34,f,,isoniazid,8-10wks,"Harrill A",2011
+Harrill1,histopathology,"Liver pathology scores. Isoniazid-treated vs. control.",pheno,inbred,34,f,,isoniazid,8-10wks,"Harrill A",2011
+Harrill2,"body weight","DB289-treated vs. control.",pheno,inbred,34,f,,DB289,6-8wks,"Harrill A",2012
+Harrill2,"metabolic panel","Blood urea nitrogen, alanine transaminase, creatinine. DB289-treated vs. control.",pheno,inbred,34,f,,DB289,6-8wks,"Harrill A",2012
+Harrill2,urinalysis,"Urine volume, creatinine. DB289-treated vs. control.",pheno,inbred,34,f,,DB289,6-8wks,"Harrill A",2012
+Harrill2,"organ weights","Kidney and liver weights. DB289-treated vs. control.",pheno,inbred,34,f,,DB289,6-8wks,"Harrill A",2012
+Harrill2,"biomarker quantification","Kidney injury molecule 1 (KIM-1). DB289-treated vs. control.",pheno,inbred,34,f,,DB289,6-8wks,"Harrill A",2012
+Harrill2,"drug and metabolite quantification","Kidney metabolite (DB75) concentration. DB289-treated vs. control.",pheno,inbred,34,f,,DB289,6-8wks,"Harrill A",2012
+Haston1,"health assessment","Survival rate and health assessment after exposure to radiation. Number of days without respiratory distress (max 26 wks).",pheno,inbred,26,both,,radiation,15-36wks,"Haston CK",2012
+Haston1,"bronchoalveolar lavage assessment","Bronchoalveolar cell differential after exposure to radiation (18 Gy).",pheno,inbred,26,both,,radiation,15-36wks,"Haston CK",2012
+Haston1,histopathology,"Post exposure to radiation.",pheno,inbred,26,both,,radiation,15-36wks,"Haston CK",2012
+Hawes1,"slit lamp","Eye morphology. Frequency rates of disorders.",pheno,"inbred w/CC7",41,both,,,6-7wks,"Hawes NL, Chang B, Davisson MT",2008
+Hawes1,ophthalmoscopy,"Retinal fundoscopic examination.",pheno,"inbred w/CC7",41,both,,,6-7wks,"Hawes NL, Chang B, Davisson MT",2008
+Hillebrands1,histopathology,"Kidney pathology at 20mo.",pheno,inbred,23,both,,,87wks,"Hillebrands J, Korstanje R",2014
+HMDPpheno1,DXA,"Bone mineral density (whole body, femur, spine).",pheno,HMDP,96,m,,,16wks,"Farber CR, Bennett BJ, Orozco L, Eskin E, Lusis AJ",2011
+HMDPpheno10,"metabolite quantification","Liver metabolic profiling. Molecular measures of nucleotides, peptides. 16h fast.",pheno,HMDP,106,m,,,16wks,"Ghazalpour A, Bennett BJ, Orozco L, Lusis AJ",2014
+HMDPpheno2,NMR,"Percent fat.",pheno,HMDP,99,m,,,16wks,"Bennett BJ, Farber CR, Orozco L, Eskin E, Lusis AJ",2010
+HMDPpheno2,"lipid profile","Cholesterol, HDL, non-HDL, triglycerides, free fatty acids. 16h fast, plasma.",pheno,HMDP,99,m,,,16wks,"Bennett BJ, Farber CR, Orozco L, Eskin E, Lusis AJ",2010
+HMDPpheno3,"tail cuff","Heart rate and blood pressure. Conscious mice.",pheno,HMDP,58,m,,,9-10wks,"Korshunov VA",2012
+HMDPpheno4,"fear conditioning test","Contextual fear, cued fear.",pheno,HMDP,94,m,,,10wks,"Park CC, Gale GD, Lusis AJ, Smith DJ",2011
+HMDPpheno5,"complete blood count",Hematology.,pheno,HMDP,83,m,,,16wks,"Davis RC, van Nas A, Bennett BJ, Eskin E, Lusis AJ",2013
+HMDPpheno6,"metabolite quantification","Liver metabolic profiling. Molecular measures of amino acids. 16h fast.",pheno,HMDP,106,m,,,16wks,"Ghazalpour A, Bennett BJ, Orozco L, Lusis AJ",2014
+HMDPpheno7,"metabolite quantification","Liver metabolic profiling. Molecular measures of carbs, cofactors, vitamins, energy, xenobiotics. 16h fast.",pheno,HMDP,106,m,,,16wks,"Ghazalpour A, Bennett BJ, Orozco L, Lusis AJ",2014
+HMDPpheno8,"metabolite quantification","Liver metabolic profiling. Molecular measures of lipids (non-lysolipids). 16h fast.",pheno,HMDP,106,m,,,16wks,"Ghazalpour A, Bennett BJ, Orozco L, Lusis AJ",2014
+HMDPpheno9,"metabolite quantification","Liver metabolic profiling. Molecular measures of lipids (lysolipids). 16h fast.",pheno,HMDP,106,m,,,16wks,"Ghazalpour A, Bennett BJ, Orozco L, Lusis AJ",2014
+Hunter1,histopathology,"Metastatic progression of mammary tumor and genetic background.",pheno,"MMTV PyVT transgenic",28,f,,,various,"Hunter KW",1998
+Iraqi1,"computed tomography","Susceptibility to periodontitis. Mice infected with P. gingivalis and F. nucleatum vs. control.",pheno,"CC pre",23,both,,"P.gingivalis and F.nucleatum",8wks,"Iraqi FA",2013
+Ishimori1,"study archive","Lipids, atherosclerosis lesions, parathyroid hormone after high-fat diet.",qtla,"QTL population",,f,"C57BL/6J x 129S1/SvImJ intercross","high-fat diet",20wks,"Ishimori N, Churchill GA",2004
+ITP1,"colony observation","Life span study. Various treatments vs. controls.",phenoarchive,"UM-HET3 population",1,both,,,"max lifespan","Miller RA, Strong R, Harrison DE",2017
+ITP1,"body weight","Various interventions vs. controls.",phenoarchive,"UM-HET3 population",1,both,,,"max lifespan","Miller RA, Strong R, Harrison DE",2017
+ITP1,"grip strength","Intervention vs. controls.",phenoarchive,"UM-HET3 population",1,both,,,"max lifespan","Miller RA, Strong R, Harrison DE",2017
+ITP1,rotarod,"Intervention vs. controls.",phenoarchive,"UM-HET3 population",1,both,,,"max lifespan","Miller RA, Strong R, Harrison DE",2017
+ITP1,"uterus weight","Uterus weight, ovariectomy study with and without an intervention.",phenoarchive,"UM-HET3 population",1,both,,,"max lifespan","Miller RA, Strong R, Harrison DE",2017
+ITP1,"fat pad weights","Fat pad weight (subscapular, mesenteric, gonadal, inguinal)",phenoarchive,"UM-HET3 population",1,both,,,"max lifespan","Miller RA, Strong R, Harrison DE",2017
+Jarvis1,"study archive","Fat pad weight. Epistatic interactions.",qtla,"QTL population",,both,"SM/J x LG/J advanced intercross",,13+wks,"Jarvis JP, Cheverud JM",2011
+Jax1,"body weight","Body weight and growth curve from age 3wks to 10 wks, weighed weekly.",pheno,inbred,24,both,,,8wks,"Jackson Laboratory",2000
+Jax2,"MHC haplotype tissue typing","Major histocompatibility complex (MHC) H2 haplotype.",pheno,inbred,56,both,,,,"Jackson Laboratory",2000
+Jax3,"colony observation","Reproductive performance.",pheno,inbred,33,f,,,various,"Jackson Laboratory",1991
+Jax4,"colony observation","Appearance, coat color",pheno,inbred,61,both,,,,"Jackson Laboratory",2006
+Jax5,"colony observation","Reproductive performance.",pheno,inbred,35,f,,,various,"Jackson Laboratory",2009
+Jax6,"study archive","Exome genotype data. Fastq files.",phenoarchive,inbred,6,m,,,,"Jackson Laboratory",2013
+Jaxpheno1,DXA,"Body mass, fat mass, lean mass, bone mineral density and content, bone area.",pheno,inbred,11,both,,,"8, 16 wks","Jackson Laboratory",2006
+Jaxpheno1,"body weight",,pheno,inbred,11,both,,,"8, 16 wks","Jackson Laboratory",2006
+Jaxpheno10,"study archive","Lipid and glucose levels in 2 knockouts vs. control. No fast.",phenoarchive,other,2,both,,,,"Jackson Laboratory",2016
+Jaxpheno11,"study archive","High-fat diet and early stages of type 2 diabetes.",onestrain,1strain,1,m,C57BL/6J,"high-fat diet",,"Jackson Laboratory",2017
+Jaxpheno12,"study archive","Type 1 diabetes incidence and other phenotypes on a 6% fat diet.",onestrain,1strain,1,both,NOD/ShiLtJ,,"3-30 wks","Jackson Laboratory",2018
+Jaxpheno13,"study archive","Multi-system assessment.",onestrain,1strain,1,both,BALB/cJ,,"3-15 wks","Jackson Laboratory",2018
+Jaxpheno14,"study archive","Multi-system assessment.",onestrain,1strain,1,both,BALB/cByJ,,3-12wks,"Jackson Laboratory",2018
+Jaxpheno15,"study archive","Effects of a 10% fat diet.",onestrain,1strain,1,both,B6.Cg-Lep<ob>/J,"high-fat diet",4-16wks,"Jackson Laboratory",2018
+Jaxpheno16,"study archive","Multi-system assessment.",onestrain,1strain,1,both,B6.BKS(D)-Lepr<db>/J,,4-20wks,"Jackson Laboratory",2018
+Jaxpheno17,"study archive","Multi-system assessment.",onestrain,1strain,1,both,"BKS.cg-Dock7<m> +/+ Lepr<db>/J",,4-10wks,"Jackson Laboratory",2018
+Jaxpheno18,"study archive","Multi-system assessment.",phenoarchive,other,2,both,,,3-14wks,"Jackson Laboratory",2018
+Jaxpheno19,"study archive","Multi-system assessment.",onestrain,1strain,1,both,MRL/MpJ-Fas<lpr>/J,,3-24wks,"Jackson Laboratory",2018
+Jaxpheno2,"organ weights","Brain, heart, kidney, liver, spleen weights.",pheno,inbred,11,both,,,"8, 16 wks","Jackson Laboratory",2006
+Jaxpheno2,"body weight",,pheno,inbred,11,both,,,"8, 16 wks","Jackson Laboratory",2006
+Jaxpheno20,"study archive","Multi-system assessment.",onestrain,1strain,1,both,"NOD.Cg-Prkdc<scid> Il2rg<tm1Wjl>/SzJ",,3-24wks,"Jackson Laboratory",2018
+Jaxpheno3,"metabolic panel","Clinical blood chemistry (plasma). 4h fast.",pheno,inbred,11,both,,,"8, 16 wks","Jackson Laboratory",2006
+Jaxpheno3,"lipid profile","Cholesterol, HDL, triglycerides, free fatty acids. 4h fast, plasma.",pheno,inbred,11,both,,,"8, 16 wks","Jackson Laboratory",2006
+Jaxpheno4,"complete blood count",Hematology.,pheno,inbred,11,both,,,"8, 16 wks","Jackson Laboratory",2006
+Jaxpheno5,"body weight","Body weight and growth curve from age 3wks to 16wks, weighed weekly.",pheno,inbred,10,both,,,3-16wks,"Jackson Laboratory",2014
+Jaxpheno6,"immune cell quantification","White blood cell and immune cell differentials.",pheno,inbred,11,both,,,"8, 16 wks","Jackson Laboratory",2006
+Jaxpheno6,"body weight",,pheno,inbred,11,both,,,"8, 16 wks","Jackson Laboratory",2006
+Jaxpheno7,"observation (SHIRPA)","Behavior, and neurosensory responses (SHIRPA protocol).",pheno,inbred,6,m,,,10wks,"Jackson Laboratory",2010
+Jaxpheno7,"grip strength","Peak tension.",pheno,inbred,6,m,,,10wks,"Jackson Laboratory",2010
+Jaxpheno7,rotarod,"Latency to fall from accelerating rotarod.",pheno,inbred,6,m,,,10wks,"Jackson Laboratory",2010
+Jaxpheno8,"ABR test","Auditory brainstem response.",pheno,inbred,7,m,,,10-13wks,"Jackson Laboratory",2010
+Jaxpheno8,echocardiography,"Cardiovascular function and morphology.",pheno,inbred,7,m,,,10-13wks,"Jackson Laboratory",2010
+Jaxpheno9,"study archive","Diabetes onset and body weight in a non-obese diabetic strain on standard diet. Blood glucose sampling.",onestrain,1strain,1,both,NOD/ShiLtJ,,,"Jackson Laboratory",2014
+Jaxwest1,"body weight",,pheno,inbred,7,both,,,8-14wks,"Jackson Laboratory",2003
+Jaxwest1,DXA,"Body mass, fat mass, lean mass, bone mineral density and content (whole body, femur, spine).",pheno,inbred,7,both,,,8-14wks,"Jackson Laboratory",2003
+Jaxwest1,ECG,"Heart rate and wave intervals. Conscious.",pheno,inbred,7,both,,,8-14wks,"Jackson Laboratory",2003
+Jaxwest1,"tail cuff","Heart rate and blood pressure. Conscious mice.",pheno,inbred,7,both,,,8-14wks,"Jackson Laboratory",2003
+Jaxwest1,"grip strength","Peak tension.",pheno,inbred,7,both,,,8-14wks,"Jackson Laboratory",2003
+Jaxwest1,"nociception assay","Hot plate.",pheno,inbred,7,both,,,8-14wks,"Jackson Laboratory",2003
+Jaxwest10,"study archive","Effect of glatiramer acetate on inflammatory bowel disease induced by dextran sulfate sodium.",onestrain,1strain,1,m,C57BL/6J,"glatiramer acetate",,"Jackson Laboratory",2009
+Jaxwest11,"study archive","Effect of rosiglitazone peptide on diet-induced obesity, type 2 diabetes.",onestrain,1strain,1,m,"BKS.Cg-Dock7<m> +/+ Lepr<db>/J",rosiglitazone,,"Jackson Laboratory",2009
+Jaxwest12,"study archive","Muscle defects, histopathology of an mdx Duchenne's muscular dystrophy model.",onestrain,1strain,1,both,"BKS.Cg-Dock7<m> +/+ Lepr<db>/J",,,"Jackson Laboratory",2011
+Jaxwest13,"study archive","Survival and characterization of a systemic lupus erythematosus model, cyclophosphamide vs. control.",onestrain,1strain,1,both,MRL/MpJ-Fas<lpr>/J,cyclophosphamide,,"Yang Y",2011
+Jaxwest14,"study archive","Survival and characterization of a systemic lupus erythematosus model, cyclophosphamide vs. control.",onestrain,1strain,1,both,NZBWF1/J,cyclophosphamide,,"Yang Y",2012
+Jaxwest15,"study archive","Use of tumor induction in an immunodeficient strain to study efficacy of 2 chemotherapy drugs.",onestrain,1strain,1,f,"NOD.Cg-Prkdc<scid> Il2rg<tm1Wjl>/SzJ","tumor cell xenograft; docetaxel, paclitaxel",,"Yang Y",2013
+Jaxwest2,"study archive","Neoplasia and tumor induction in an immunodeficient strain. Passage of live human tumor cells.",onestrain,1strain,1,f,NOD.CB17-Prkdc<scid>/J,"tumor cell xenograft",,"Jackson Laboratory",2007
+Jaxwest3,"study archive","Effect of metformin on type 2 diabetes in a diabetic obese strain.",onestrain,1strain,1,f,"BKS.Cg-Dock7<m> +/+ Lepr<db>/J",metformin,,"Jackson Laboratory",2009
+Jaxwest4,"study archive","Effects of test compounds on inflammatory bowel disease induced by dextran sulfate sodium",onestrain,1strain,1,m,C57BL/6J,"dextran sulfate",,"Jackson Laboratory",2009
+Jaxwest5,"study archive","Effect of salbutamol on a model of asthma.",onestrain,1strain,1,f,BALB/cJ,salbutamol,,"Jackson Laboratory",2009
+Jaxwest6,"study archive","Effect of salbutamol on a model of asthma.",onestrain,1strain,1,f,BALB/cJ,salbutamol,,"Jackson Laboratory",2009
+Jaxwest7,"study archive","Effect of rosiglitazone on type 2 diabetes in a diabetic obese strain.",onestrain,1strain,1,f,"BKS.Cg-Dock7<m> +/+ Lepr<db>/J",rosiglitazone,,"Jackson Laboratory",2009
+Jaxwest8,"study archive","Effect of L-DOPA in inhibiting Parkinsonian pathology.",onestrain,1strain,1,m,C57BL/6J,L-DOPA,,"Jackson Laboratory",2009
+Jaxwest9,"study archive","Effect of captopril on hyperglycemia in a strain with induced type 1 diabetes.",onestrain,1strain,1,m,C57BL/6J,captopril,,"Jackson Laboratory",2009
+Jentsch1,"operant conditioning chamber","Reversal learning test. Impulsivity, acquisition, reversal, conditioning. Performance and latency.",pheno,"BXD w/par",53,m,,,17wks,"Jentsch JD, Williams RW",2011
+Jentsch2,"operant conditioning chamber","Intravenous self-administration of cocaine via activation of levers, and locomotor activity.",pheno,BXD,4,both,,cocaine,8-17wks,"Jentsch JD",2013
+JMP001,"study archive","Battery of behavioral tests after low dose of aluminum ammonium sulfate.",onestrain,1strain,1,f,C57BL/6J,"aluminum ammonium sulfate",10-38wks,"Japan Mouse Phenotypes (JMP)",2019
+Johnson1,"ABR test","Auditory brainstem response.",pheno,inbred,51,both,,,"3-12wks and 15-72wks","Johnson KR, Erway LC, Zheng QY",2000
+Johnson3,"ABR test","Auditory brainstem response.",pheno,"B6.A consomic w/par",24,both,,,23-30wks,"Johnson KR, Donahue L",2012
+Johnson4,"ABR test","Auditory brainstem response.",pheno,"B6.PWD consomic w/par",28,both,,,49-63wks,"Johnson KR, Donahue L",2012
+Jones1,"vestibular stimulus test","Vestibular function using evoked potentials.",pheno,inbred,16,both,,,49-63wks,"Jones SM, Johnson KR, Jones TA, Erway LC",2003
+Justice2,"complete blood count",Hematology.,pheno,inbred,16,both,,,12-16wks,"Justice M",2002
+Karst1,"study archive","Characterization of high-muscle-mass mice.",qtla,"QTL population",,both,"BMMI816 x BMMI806 (Berlin Muscle Mouse)",,3-10wks,"Karst B, Palmer A",2011
+Kas1,"balance beam","Latency to reach target.",pheno,inbred,6,m,,,20-34wks,"Kas MJ, de Mooij-van Malsen J",2009
+Kas1,"grid test","Inverted grid performance.",pheno,inbred,6,m,,,20-34wks,"Kas MJ, de Mooij-van Malsen J",2009
+Kas1,"home cage monitoring","Locomotor activity.",pheno,inbred,6,m,,,20-34wks,"Kas MJ, de Mooij-van Malsen J",2009
+Kas1,microscopy,"Ventral root axon morphology. Nervous system microscopy.",pheno,inbred,6,m,,,20-34wks,"Kas MJ, de Mooij-van Malsen J",2009
+Kielar1,"study archive","Genotyping of subcortical heterotopia associated with seizures, behavioral deficits.",onestrain,1strain,1,both,HeCo,,,"Francis F, Kielar M",2008
+Kiernan1,"study archive","Ear microscopy (ampullae) and eye slit lamp study.",qtla,"QTL population",,f,"Jag1 heterozygous mice",,,"Kiernan AE, Churchill GA",2007
+Kim1,"study archive","Glucose, insulin, body and fat pad weights.",qtla,"QTL population",,m,"TallyHo and C57BL/6J backcross progeny",,20-26wks,"Kim JH, Churchill GA",2001
+Klaassen1,histopathology,"Cadmium-induced toxicity to liver, testis, trigeminal ganglia.",pheno,inbred,8,m,,cadmium,8wks,"Klaassen CD",2001
+Kliethermes1,"monitoring system","Activity in a novel environment. Distance traveled, number of rears. 30 min test.",pheno,inbred,14,both,,,8wks,"Kliethermes CL, Crabbe JC",2006
+Kliethermes1,"two chamber assay","Novel environment preference. Activity in familiar and novel compartments. 20 min test.",pheno,inbred,14,both,,,8wks,"Kliethermes CL, Crabbe JC",2006
+Kliethermes1,"hole board test","Head dipping and other activity measures, hole board with and without objects in two of the holes. 10 min test.",pheno,inbred,14,both,,,8wks,"Kliethermes CL, Crabbe JC",2006
+Kliethermes1,Y-maze,"Spontaneous alternation.",pheno,inbred,14,both,,,8wks,"Kliethermes CL, Crabbe JC",2006
+Koide1,"avoidance test","Active and passive.",pheno,"wild-derived Mishima",11,f,,,8-13wks,"Koide T, Ikeda K, Moriwaki K, Niki H, Shiroishi T",2000
+Koide1,"home cage monitoring","Locomotor activity.",pheno,"wild-derived Mishima",11,f,,,8-13wks,"Koide T, Ikeda K, Moriwaki K, Niki H, Shiroishi T",2000
+Koide1,"light-dark box","Anxiety-related behavior.",pheno,"wild-derived Mishima",11,f,,,8-13wks,"Koide T, Ikeda K, Moriwaki K, Niki H, Shiroishi T",2000
+Koide1,"nociception assay","Hot plate and pressure on tail.",pheno,"wild-derived Mishima",11,f,,,8-13wks,"Koide T, Ikeda K, Moriwaki K, Niki H, Shiroishi T",2000
+Koide2,"nociception assay","Capsaicin intake at several concentrations.",pheno,"wild-derived Mishima",14,both,,,8-12wks,"Koide T, Furuse T",2003
+Koide3,"open field test","Exploratory, anxiety-related behavior. 10 min test.",pheno,"wild-derived Mishima",12,both,,,10wks,"Koide T, Takahashi A",2006
+Korstanje1,urinalysis,"Microalbumin, creatinine, ratio. Aging study, 6mo, 12mo, and 20mo.",pheno,inbred,30,both,,,"52, 78, 104 wks","Korstanje R",2008
+Korstanje2,histopathology,"Kidney pathology. Aging study, 6mo, 12mo, 20mo.",pheno,inbred,29,m,,,"52, 78, 104 wks","Korstanje R",2013
+Kumar1,"study archive","Open field test. Locomotor, anxiety-related, circadian behavior. Baseline and after cocaine i.p.",qtla,"QTL population",,both,"C57BL/6J x C57BL/6N reduced complexity cross.",cocaine,10-14wks,"Kumar V",2014
+Lake1,"complete blood count",Hematology.,pheno,"B6.A consomic w/par",23,both,,,7-11wks,"Lake J, Donahue L, Davisson MT",2005
+Lake1,"metabolic panel","Glucose, bilirubin, aspartate transaminase (plasma). 4h fast.",pheno,"B6.A consomic w/par",23,both,,,7-11wks,"Lake J, Donahue L, Davisson MT",2005
+Lake1,"lipid profile","Cholesterol, HDL, triglycerides, fatty acids. 4h fast, plasma.",pheno,"B6.A consomic w/par",23,both,,,7-11wks,"Lake J, Donahue L, Davisson MT",2005
+Lake1,ECG,"Heart rate and wave intervals. Conscious.",pheno,"B6.A consomic w/par",23,both,,,7-11wks,"Lake J, Donahue L, Davisson MT",2005
+Lake1,"tail cuff","Heart rate and blood pressure. Conscious mice.",pheno,"B6.A consomic w/par",23,both,,,7-11wks,"Lake J, Donahue L, Davisson MT",2005
+Lake2,"observation (SHIRPA)","Behavior, and neurosensory responses (SHIRPA protocol).",pheno,"B6.A consomic w/par",23,both,,,8wks,"Lake J, Donahue L, Davisson MT",2005
+Lake3,rotarod,"Latency to fall from fixed and accelerating rotorods, multiple trials.",pheno,"B6.A consomic w/par",23,both,,,8-9wks,"Lake J, Donahue L, Davisson MT",2005
+Lake3,"hole board test","Exploratory, locomotor, and anxiety-related behavior.",pheno,"B6.A consomic w/par",23,both,,,8-9wks,"Lake J, Donahue L, Davisson MT",2005
+Lake3,"grip strength","3 trials.",pheno,"B6.A consomic w/par",23,both,,,8-9wks,"Lake J, Donahue L, Davisson MT",2005
+Lazear1,"organ weights","Testis weight.",pheno,CC,12,m,,,13-21wks,"Lazear HM, Fritch EJ, Mattocks MD",2018
+Lazear1,"sperm count","Sperm count. Computer assisted sperm analysis.",pheno,CC,12,m,,,13-21wks,"Lazear HM, Fritch EJ, Mattocks MD",2018
+Lazear1,microscopy,"Male reproductive sperm motility. Computer assisted sperm analysis.",pheno,CC,12,m,,,13-21wks,"Lazear HM, Fritch EJ, Mattocks MD",2018
+Lazear1,"colony observation","Litter size assessment.",pheno,CC,12,m,,,13-21wks,"Lazear HM, Fritch EJ, Mattocks MD",2018
+Leiter2,"study archive","Type 1 diabetes development study.",qtla,"QTL population",,f,"NOD x 129.H2g7 backcross.",,14-40wks,"Leiter E",2009
+Lesage1,"immune cell quantification","Immunological cell variation.",pheno,"CC w/par",77,both,,,5-8wks,"Lesage S, Collin R, Balmer L, Morahan G",2018
+Levy1,"body weight",,pheno,"CC pre",31,both,,,8-14wks,"Levy R, Mott RF, Iraqi FA, Gabet Y",2015
+Levy1,"computed tomography","Bone microarchitecture, morphology (femur).",pheno,"CC pre",31,both,,,8-14wks,"Levy R, Mott RF, Iraqi FA, Gabet Y",2015
+Li1,"study archive","Lipids, atherosclerosis lesion histopathology. High-fat, western-style diet.",qtla,"QTL population",,f,"C57BL/6 x C3H intercross","western diet",12wks,"Li Q, Churchill GA",2008
+Lightfoot1,"body weight",,pheno,inbred,41,both,,,8-9wks,"Lightfoot JT, Leamy L, Pomp D",2010
+Lightfoot1,"running wheel monitoring","Distance, duration, speed.",pheno,inbred,41,both,,,8-9wks,"Lightfoot JT, Leamy L, Pomp D",2010
+Lionikas1,"body weight","Exercise (swim endurance training regimen) vs. control at weekly intervals for 5wks.",pheno,inbred,6,m,,exercise,11-14wks,"Kilikevicius A, Lionikas A",2012
+Lionikas1,microscopy,"Muscle fibers. Exercised (swim endurance training regimen) vs. control at weekly intervals for 5wks.",pheno,inbred,6,m,,exercise,11-14wks,"Kilikevicius A, Lionikas A",2012
+Lionikas1,"muscle weights","Various muscles. Exercised (swim endurance training regimen) vs. control at weekly intervals for 5wks.",pheno,inbred,6,m,,exercise,11-14wks,"Kilikevicius A, Lionikas A",2012
+Lionikas1,"organ weights","Heart weight. Cardiac ventricle weight. Exercised (swim endurance training regimen) vs. control at weekly intervals for 5wks.",pheno,inbred,6,m,,exercise,11-14wks,"Kilikevicius A, Lionikas A",2012
+Lionikas1,"bone dimensions","Femur length. Exercised (swim endurance training regimen) vs. control at weekly intervals for 5wks.",pheno,inbred,6,m,,exercise,11-14wks,"Kilikevicius A, Lionikas A",2012
+Lionikas1,"swim endurance test","Exercise vs. control, weekly for 5wks.",pheno,inbred,6,m,,exercise,11-14wks,"Kilikevicius A, Lionikas A",2012
+Lionikas1,"protein activity assessment","Muscle enzyme levels. Exercised (swim endurance training regimen) vs. control at weekly intervals for 5wks.",pheno,inbred,6,m,,exercise,11-14wks,"Kilikevicius A, Lionikas A",2012
+Loos1,"home cage monitoring","Locomotor activity, avoidance, sheltering, habituation, preference index, aversion index, over several days.",pheno,inbred,8,m,,,8-19wks,"Loos M, Maroteaux G, Smit A, Verhage M",2012
+Loos2,"home cage monitoring","Locomotor activity, sheltering, habituation. 3 day home-cage assessment.",pheno,"inbred w/CC7",11,m,,,8-12wks,"Loos M, Koopmans B",2016
+Lyons1,"study archive","Lipids (plasma), liver weight, gallbladder and gallstone histopathology.",qtla,"QTL population",,m,"DBA/2J x CAST/EiJ F2 progeny","high-fat diet",16-18wks,"Lyons MA, Churchill GA",2003
+Lyons2,"study archive","Lipids (plasma), bile, liver weight, gallbladder and gallstone histopathology.",qtla,"QTL population",,m,"129S1/SvImJ x CAST/EiJ F2 progeny","high-fat diet",16-18wks,"Lyons MA, Churchill GA",2003
+Lyons3,"study archive","Lipids, gallbladder and gallstone histopathology after high-fat diet.",qtla,"QTL population",,m,"129S1/SvImJ x RIIIS/J F2 intercross","high-fat diet",14-20wks,"Lyons MA, Churchill GA",2004
+Maeda1,"study archive","Atherosclerosis lesion histopathology, lesion sizes.",qtla,"QTL population",,both,,,18-20wks,"Maeda N",2017
+Mahler1,"study archive","Colitis susceptibility. Colon histopathology, spleen weight.",qtla,"QTL population",,both,"C3H/HeJBir x C57BL/6J backcrosses",,6wks,"Mahler M, Churchill GA",2002
+Mao1,"body weight",,pheno,CC,16,both,,,10wks,"Mao J, Snijders AM",2015
+Mao1,rotarod,"Speed where mouse falls off accelerating rotarod, 45 degree angle, 3-5 trials.",pheno,CC,16,both,,,10wks,"Mao J, Snijders AM",2015
+Marchuk1,histopathology,"Cerebral infarct volume, stroke susceptibility. Surgical occlusion of distal medial cerebral artery (MCA) to induce ischemia.",pheno,inbred,16,both,,,11-13wks,"Marchuk DA",2009
+Massett1,"body weight",,pheno,inbred,34,both,,,8wks,"Massett MP",2012
+Massett1,"treadmill endurance test","Duration, distance, work.",pheno,inbred,34,both,,,8wks,"Massett MP",2012
+Mathes1,"body weight","Baseline vs. after exercise (access to running wheel).",pheno,"CC pre w/par",184,m,,exercise,10-12wks,"Mathes WF",2011
+Mathes1,MRI,"Body composition (percent fat). Baseline vs. after exercise (access to running wheel).",pheno,"CC pre w/par",184,m,,exercise,10-12wks,"Mathes WF",2011
+Mathes1,"intake monitoring","Caloric intake. Baseline vs. after exercise (access to running wheel). Metabolism, food intake.",pheno,"CC pre w/par",184,m,,exercise,10-12wks,"Mathes WF",2011
+Mathes1,"monitoring system","Respiratory exchange ratio. Baseline (before access to running wheel).",pheno,"CC pre w/par",184,m,,exercise,10-12wks,"Mathes WF",2011
+Mathes1,"running wheel monitoring","Distance, speed at days 1, 6, and 12.",pheno,"CC pre w/par",184,m,,exercise,10-12wks,"Mathes WF",2011
+Mathews1,"study archive","Type 1 diabetes resistance.",qtla,"QTL population",,f,"ALR/Lt x NOD backcross",,8-40wks,"Mathews CE, Churchill GA",2003
+Maurer1,"body weight","Isoproterenol or atenolol vs. control.",pheno,inbred,23,m,,"atenolol, isoproterenol",10-12wks,"Maurer F, Beckmann J, Abriel H, Pedrazzini T",2009
+Maurer1,"organ weights","Heart, atria, ventricle weights. Isoproterenol or atenolol vs. control.",pheno,inbred,23,m,,"atenolol, isoproterenol",10-12wks,"Maurer F, Beckmann J, Abriel H, Pedrazzini T",2009
+Maurer1,"tail cuff","Heart rate and blood pressure. Conscious mice. Isoproterenol or atenolol vs. control.",pheno,inbred,23,m,,"atenolol, isoproterenol",10-12wks,"Maurer F, Beckmann J, Abriel H, Pedrazzini T",2009
+Maurer1,ECG,"Heart rate and wave amplitudes and intervals. Unconscious. Isoproterenol or atenolol vs. control.",pheno,inbred,23,m,,"atenolol, isoproterenol",10-12wks,"Maurer F, Beckmann J, Abriel H, Pedrazzini T",2009
+McMullan1,"body weight",,pheno,CC,50,f,,,17-72wks,"McMullan RC, Pomp D, Pardo-Manuel de Villena F",2017
+McMullan1,MRI,"Body composition (fat and lean mass and percent).",pheno,CC,50,f,,,17-72wks,"McMullan RC, Pomp D, Pardo-Manuel de Villena F",2017
+McMullan1,"treadmill endurance test","Maximal distance is recorded when mouse fails to run.",pheno,CC,50,f,,,17-72wks,"McMullan RC, Pomp D, Pardo-Manuel de Villena F",2017
+McMullan2,"running wheel monitoring","Running wheel activity each day for 28 days.",pheno,CC,43,f,,,5-22wks,"McMullan RC, Pomp D, Pardo-Manuel de Villena F",2017
+McMullan3,"body weight","Body weight before, during, and after several weeks of exercise.",pheno,CC,43,f,,,20-88wks,"McMullan RC, Pomp D, Pardo-Manuel de Villena F",2017
+McMullan3,MRI,"Body composition (fat and lean mass) before, during, and after several weeks of exercise.",pheno,CC,43,f,,,20-88wks,"McMullan RC, Pomp D, Pardo-Manuel de Villena F",2017
+McMullan3,"intake monitoring","Food intake, before, during, and after several weeks of exercise.",pheno,CC,43,f,,,20-88wks,"McMullan RC, Pomp D, Pardo-Manuel de Villena F",2017
+McMullan4,"body weight","Body weight before and after 2 weeks of exercise wheel availability.",pheno,CC,13,f,,exercise,32-40wks,"McMullan RC, Pardo-Manuel de Villena F",2018
+McMullan4,MRI,"Body composition (fat and lean mass) before and after 2 weeks of exercise wheel availability.",pheno,CC,13,f,,exercise,32-40wks,"McMullan RC, Pardo-Manuel de Villena F",2018
+McMullan4,"running wheel monitoring","Running wheel activity on days 11 and 12.",pheno,CC,13,f,,exercise,32-40wks,"McMullan RC, Pardo-Manuel de Villena F",2018
+McMullan4,"intake monitoring","Food intake during 2 weeks of exercise wheel availability.",pheno,CC,13,f,,exercise,32-40wks,"McMullan RC, Pardo-Manuel de Villena F",2018
+McMullan5,"study archive","Activity levels, body weight and composition after voluntary exercise.",phenoarchive,CC,2,f,,exercise,14-18wks,"McMullan RC, Pardo-Manuel de Villena F",2018
+McMullan6,"body weight","Body weight before and after 4 weeks of treadmill-based exercise training. 3 intensity cohorts.",pheno,CC,4,both,,exercise,8-10wks,"McMullan RC, Pardo-Manuel de Villena F",2018
+McMullan6,MRI,"Body composition (fat and lean mass) before and after 4 weeks of treadmill-based exercise training. 3 intensity cohorts.",pheno,CC,4,both,,exercise,8-10wks,"McMullan RC, Pardo-Manuel de Villena F",2018
+McMullan7,"monitoring system","Locomotor activity, respiratory activity, body heat production, during 4 weeks of treadmill-based exercise training. 3 intensity cohorts.",pheno,CC,4,both,,exercise,8-10wks,"McMullan RC, Pardo-Manuel de Villena F",2018
+McMullan7,"intake monitoring","Food and water intake, during 4 weeks of treadmill-based exercise training. 3 intensity cohorts.",pheno,CC,4,both,,exercise,8-10wks,"McMullan RC, Pardo-Manuel de Villena F",2018
+Metten1,"behavior observation","Observed gait, hindlimb splay 10 min and 30 min after ethanol i.p. (several doses).",pheno,inbred,9,both,,ethanol,8-11wks,"Metten P, Crabbe JC, Wahlsten D",2004
+Metten1,"open field test","Locomotor activity. Ethanol i.p. (several doses) vs. control (saline i.p.). 45s test.",pheno,inbred,9,both,,ethanol,8-11wks,"Metten P, Crabbe JC, Wahlsten D",2004
+Metten2,"body weight",,pheno,inbred,15,m,,ethanol,8-11wks,"Metten P, Crabbe JC",2005
+Metten2,"behavior observation","Ethanol withdrawal severity and handling-induced convulsions.",pheno,inbred,15,m,,ethanol,8-11wks,"Metten P, Crabbe JC",2005
+Mills1,"chromosome instability assessment","Chromosome instability. Aging study, 6mo, 12mo, 20mo.",pheno,inbred,30,both,,,"26, 52, 87 wks","Mills K",2008
+Mills1,"apoptosis assessment","Aging study, 6mo, 12mo, 20mo.",pheno,inbred,30,both,,,"26, 52, 87 wks","Mills K",2008
+Mitchell1,"go/no-go task","Pre-cue, go cue. no-go cue. Discrimination index.",pheno,inbred,15,m,,,5-7wks,"Mitchell SH",2010
+Mitchell1,"monitoring system","Locomotor activity.",pheno,inbred,15,m,,,5-7wks,"Mitchell SH",2010
+Mitchell1,"bottle choice test","Sucrose vs. water.",pheno,inbred,15,m,,,5-7wks,"Mitchell SH",2010
+Mogil1,"nociception assay","Battery of tests for mechanical, chemical, thermal nociception.",pheno,inbred,12,m,,,6-18wks,"Mogil JS, Devor M, Lariviere WR",2002
+Mogil2,"monitoring system","Locomotor activity. Light and dark phases.",pheno,inbred,12,m,,,6-10wks,"Mogil JS",2000
+Mogil3,"nociception assay","von Frey nociception test, baseline and after spared nerve injury (SNI) surgery as a hypersensitizer.",pheno,inbred,18,both,,,7-12wks,"Mogil JS, Salter MW",2012
+Moore1,"study archive","Gravitropic response in Arabidopsis.",qtla,"QTL population",,both,"Ler x Cvi population",,,"Moore CR, Broman KW",2013
+Morgan1,"body weight","Body weight and growth curve from age 8wks to 18wks weighed every 2wks. Olanzapine vs. control (both groups high-fat diet).",pheno,"inbred w/CC8",9,f,,"high-fat diet and olanzapine",8-18wks,"Morgan AP, Crowley JJ, Sullivan PF",2014
+Moy1,"three chamber assay","Sociability and preference for social novelty. Autism-relevant behaviors.",pheno,inbred,17,m,,,6-7wks,"Moy SS, Crawley JN, Lauder JM, Nadler JJ, Threadgill DW, Magnuson TR",2008
+Mrug1,"study archive","Kidney morphology.",qtla,"QTL population",,both,"cpk mutant mice",,1-2wks,"Mrug M, Churchill GA",2005
+Nadeau1,"body weight","Baseline vs. high-fat diet for 12wks.",pheno,"B6.A consomic w/par",24,m,,"high-fat diet","5, 17 wks","Nadeau JH, Hill AE",2008
+Nadeau2,"body size and weight","Body weight, size, and body mass index after 16wks on high-fat high-sucrose diet.",pheno,"B6.A consomic w/par",24,m,,"high-fat high-sucrose diet","5, 21 wks","Riordan JD, Croniger CM, Sinasac DS, Nadeau JH",2015
+Nadeau2,"metabolic panel","Glucose, insulin, insulin resistance after 16wks of high-fat high-sucrose diet. 16h fast.",pheno,"B6.A consomic w/par",24,m,,"high-fat high-sucrose diet","5, 21 wks","Riordan JD, Croniger CM, Sinasac DS, Nadeau JH",2015
+Nadeau2,"lipid profile","Cholesterol, triglycerides. 16h fast, plasma. Hepatic triglycerides.",pheno,"B6.A consomic w/par",24,m,,"high-fat high-sucrose diet","5, 21 wks","Riordan JD, Croniger CM, Sinasac DS, Nadeau JH",2015
+Nadeau2,"organ weights","Liver weight after 16wks of high-fat high-sucrose diet. 16h fast.",pheno,"B6.A consomic w/par",24,m,,"high-fat high-sucrose diet","5, 21 wks","Riordan JD, Croniger CM, Sinasac DS, Nadeau JH",2015
+Naggert1,"body weight","High-fat diet for 8wks.",pheno,"inbred w/CC7",43,both,,"high-fat diet","5, 21 wks","Naggert J, Svenson KL, Smith RV, Paigen B, Peters LL",2003
+Naggert1,DXA,"Body mass, fat mass, lean mass, bone mineral density and content after 8wks on high-fat diet.",pheno,"inbred w/CC7",43,both,,"high-fat diet","5, 21 wks","Naggert J, Svenson KL, Smith RV, Paigen B, Peters LL",2003
+Naggert1,"metabolic panel","Glucose (plasma). Baseline vs. high-fat diet (17wks). 4h fast.",pheno,"inbred w/CC7",43,both,,"high-fat diet","5, 21 wks","Naggert J, Svenson KL, Smith RV, Paigen B, Peters LL",2003
+Naggert1,"hormone quantification","Insulin and leptin after 18wks on high-fat diet. Multiple readings per animal were averaged.",pheno,"inbred w/CC7",43,both,,"high-fat diet","5, 21 wks","Naggert J, Svenson KL, Smith RV, Paigen B, Peters LL",2003
+Nelson1,"body weight","Restricted diet vs. ad libitum diet.",pheno,ILSXISS,44,both,,"restricted diet","max lifespan","Nelson JF, Johnson TE",2010
+Nelson1,NMR,"Body mass, fat mass, lean mass. Restricted diet vs. ad libitum diet.",pheno,ILSXISS,44,both,,"restricted diet","max lifespan","Nelson JF, Johnson TE",2010
+Nelson1,"colony observation","Life span comparison. Restricted diet vs. ad libitum diet.",pheno,ILSXISS,44,both,,"restricted diet","max lifespan","Nelson JF, Johnson TE",2010
+Nishihara1,"study archive","Blood pressure (tail cuff).",qtla,"QTL population",,m,"C3H x NZO and NZO x C3H intercross F2 progeny",,10wks,"Nishihara E, Churchill GA",2007
+Odet1,"body weight",,pheno,inbred,8,m,,,10-66wks,"O'Brien DA, Odet F, Pan W, Pardo-Manuel de Villena F",2015
+Odet1,"organ weights","Male reproductive organ weights. Testes, seminal vesicles, epididymis, vas deferens.",pheno,inbred,8,m,,,10-66wks,"O'Brien DA, Odet F, Pan W, Pardo-Manuel de Villena F",2015
+Odet1,histopathology,"Male reproductive histopathology. Percent normal vs. abnormal sperm, seminiferous tubules.",pheno,inbred,8,m,,,10-66wks,"O'Brien DA, Odet F, Pan W, Pardo-Manuel de Villena F",2015
+Odet1,"sperm count","Sperm count. Hemocytometer.",pheno,inbred,8,m,,,10-66wks,"O'Brien DA, Odet F, Pan W, Pardo-Manuel de Villena F",2015
+Odet1,"metabolic panel","Male reproductive sperm lactate production.",pheno,inbred,8,m,,,10-66wks,"O'Brien DA, Odet F, Pan W, Pardo-Manuel de Villena F",2015
+Odet2,microscopy,"Male reproductive sperm motility.",pheno,"inbred w/CC8",8,m,,,10-66wks,"O'Brien DA, Odet F, Pan W, Pardo-Manuel de Villena F",2015
+Paigen1,"body weight","Baseline vs. high-fat diet for 8wks.",pheno,inbred,44,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen1,"lipid profile","Cholesterol, HDL, non-HDL. 4h fast, plasma. Hepatic lipids. 8wks on high-fat diet.",pheno,inbred,44,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen1,"metabolic panel","Alanine transaminase, bile salts (plasma) after 8wks on high-fat diet. 4h fast.",pheno,inbred,44,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen1,histopathology,"Gallstone, gallbladder, and atherosclerosis lesion histopathology after 8wks on high-fat diet.",pheno,inbred,44,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen1,"organ dimensions","Gallbladder volume after 8wks on high-fat diet.",pheno,inbred,44,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen1,"organ weights","Liver weight after 8wks on high-fat diet.",pheno,inbred,44,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen2,histopathology,"Aortic lesion size histopathology. Baseline vs. high-fat diet (17wks).",pheno,"inbred w/CC7",43,both,,"high-fat diet","7-9wks, 24-27wks","Paigen B, Svenson KL, Peters LL",2002
+Paigen2,"lipid profile","Cholesterol, HDL, non-HDL, triglycerides. Baseline vs. high-fat diet (17wks). 4h fast, plasma.",pheno,"inbred w/CC7",43,both,,"high-fat diet","7-9wks, 24-27wks","Paigen B, Svenson KL, Peters LL",2002
+Paigen3,"body weight","Baseline vs. high-fat diet for 8wks.",pheno,"obesity mutants",8,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen3,"lipid profile","Cholesterol, HDL, non-HDL. 4h fast, plasma. Hepatic lipids. 8wks on high-fat diet.",pheno,"obesity mutants",8,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen3,"metabolic panel","Alanine transaminase, bile salts (plasma) after 8wks on high-fat diet. 4h fast.",pheno,"obesity mutants",8,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen3,histopathology,"Gallstone, gallbladder, and atherosclerosis lesion histopathology after 8wks on high-fat diet",pheno,"obesity mutants",8,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen3,"organ dimensions","Gallbladder volume after 8wks on high-fat diet",pheno,"obesity mutants",8,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen3,"organ weights","Liver weight after 8wks on high-fat diet.",pheno,"obesity mutants",8,both,,"high-fat diet",15-19wks,"Paigen B, Bouchard G, Carey MC",2000
+Paigen4,"lipid profile","Cholesterol, HDL, non-HDL, triglycerides. 4h fast, plasma.",pheno,"inbred w/CC7",43,both,,,10wks,"Paigen B, Svenson KL, Peters LL",2002
+Palmer1,"fear conditioning test","Innate anxiety-like behavior and contextual fear conditioning.",pheno,"B6.A consomic w/par",19,both,,,10wks,"Palmer A, Ponder CA, Munoz M, Gilliam TC",2007
+Palmer2,"open field test","Locomotor activity and habituation.  Baseline (saline) vs. methamphetamine 2 mg/kg i.p. 30 min test.",pheno,"B6.A consomic w/par",21,both,,methamphetamine,10wks,"Palmer A",2008
+Palmer3,"body weight",,pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer3,"open field test","Locomotor and exploratory behavior. 30 min test.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer3,"fear conditioning test","Contextual fear, cued fear.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer3,"acoustic startle test","Acoustic startle response, prepulse inhibition.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer3,"forced swim test","Immobility time. 6 min test.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer3,"metabolic panel","Glucose (blood). Before and after 16h fast.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer4,"body weight",,pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer4,"light-dark box","Anxiety-related. 5 min test.",pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer4,"open field test","Locomotor and exploratory activity, anxiety-related behavior, methamphetamine sensitivity. 30 min test.",pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer4,"forced swim test","Immobility time. 6 min test.",pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer4,"acoustic startle test","Acoustic startle response.",pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer5,"body weight",,pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer5,"open field test","Locomotor and exploratory behavior. 30 min test.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer5,"fear conditioning test","Contextual fear, cued fear.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer5,"acoustic startle test","Acoustic startle response, prepulse inhibition.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer5,"forced swim test","Immobility time. 6 min test.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer5,"metabolic panel","Glucose (blood). Before and after 16h fast.",pheno,"F1 Tcf7l2",30,both,,,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer6,"body weight",,pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer6,"light-dark box","Anxiety-related. 5 min test.",pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer6,"open field test","Locomotor and exploratory activity, anxiety-related behavior, methamphetamine sensitivity. 30 min test.",pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer6,"forced swim test","Immobility time. 6 min test.",pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Palmer6,"acoustic startle test","Acoustic startle response.",pheno,"F1 Cacna1c",30,both,,methamphetamine,7-14wks,"Sittig LJ, Palmer AA",2017
+Payseur1,"study archive","Body weight of Gough Island mice.",qtla,"QTL population",,both,"Gough Island mice x WSB intercross.",,1-16wks,"Payseur BA",2015
+Payseur2,"study archive","Hybrid male sterility. Morphology, sperm count, histopathology.",qtla,"QTL population",,m,"WSB/EiJ x PWD/PhJ intercross",,10-11wks,"Payseur BA",2018
+Perlegen2,genotyping,"SNP profiling, 8,100,000+ genomic locations, 1-19,X,Y,MT.",snp,inbred,16,m,,,,"Cox D, Frazer KA",2005
+Peters1,"complete blood count",Hematology.,pheno,"inbred w/CC7",43,both,,,10wks,"Peters LL, Barker JE",2001
+Peters1,"coagulation test",Fibrinogen.,pheno,"inbred w/CC7",43,both,,,10wks,"Peters LL, Barker JE",2001
+Peters2,"complete blood count",Hematology.,pheno,"AXB BXA",28,both,,,11wks,"Peters LL, Barker JE",2004
+Peters3,"complete blood count","Hematology. Variation over time of controls.",onestrain,1strain,1,both,C57BL/6J,,,"Peters LL, Svenson KL, Smith RV",2005
+Peters4,"complete blood count","Hematology. Aging study, 6mo, 12mo, 18mo, 24mo.",pheno,inbred,30,both,,,"26, 52, 78, 104 wks","Peters LL",2007
+Peters5,"study archive","Complete blood count measures on fetuses, newborns.",qtla,"QTL population",,both,"C3H/HeJ+/wan x CAST/EiJ F2 progeny",,"fetus, newborn","Peters LL",2004
+Petkova1,"complete blood count","Hematology. Aging study, 6mo, 12mo, 18mo, 24mo.",pheno,inbred,32,both,,,"26, 52, 78, 104 wks","Petkova S, Roopenian D",2007
+Petkova1,"immune cell quantification","Aging study, 6mo, 12mo, 18mo, 24mo.",pheno,inbred,32,both,,,"26, 52, 78, 104 wks","Petkova S, Roopenian D",2007
+Petryshen1,"acoustic startle test","Acoustic startle response, prepulse inhibition.",pheno,"B6.A consomic",22,m,,,7-9wks,"Petryshen TL, Leussis MP",2009
+Pitman1,"study archive","Cholesterol (plasma) after high-fat diet (several timepoints).",qtla,"QTL population",,f,"NZB/BlNJ x SM/J backcross progeny","high-fat diet",6-26wks,"Pitman WA, Churchill GA",2002
+Pletcher1,"body weight",,pheno,inbred,32,m,,,7-9wks,"Pletcher MT",2007
+Pletcher1,"open field test","Locomotor and anxiety-related behavior. 7 min test.",pheno,inbred,32,m,,,7-9wks,"Pletcher MT",2007
+Pletcher1,"tail suspension test","Immobility percentage.",pheno,inbred,32,m,,,7-9wks,"Pletcher MT",2007
+Pletcher1,"hormone quantification","Corticosterone (serum).",pheno,inbred,32,m,,,7-9wks,"Pletcher MT",2007
+Poon1,histopathology,"Cell proliferation in the rostral migratory stream. BrdU+ cells.",pheno,inbred,9,both,,,13-78wks,"Poon A, Goldowitz D",2013
+Powell1,"in vitro assay","Bacterial load after inoculation with Neisseria musculi. Oral cavity.",pheno,"inbred w/CC8",8,both,,"Neisseria musculi",8-16wks,"Powell DA, Ma M, Frelinger JA, So M",2018
+Puk1,"organ dimensions","Eye morphology.",pheno,inbred,4,both,,,13wks,"Puk O, Graw J",2006
+Recla1,"study archive","Hot plate nociception.",qtla,"DO population",,both,,,13-17wks,"Recla JM",2013
+Reed1,"body size and weight","Body weight, body length, body mass index.",pheno,inbred,28,m,,,"8, 12 wks","Reed DR, Bachmanov AA, Tordoff MG",2009
+Reed1,"fat pad weights","Epididymal, retroperitoneal.",pheno,inbred,28,m,,,"8, 12 wks","Reed DR, Bachmanov AA, Tordoff MG",2009
+Reed1,"organ weights","Heart, kidney weights.",pheno,inbred,28,m,,,"8, 12 wks","Reed DR, Bachmanov AA, Tordoff MG",2009
+Reed2,"body size and weight","Body weight, body length, body mass index.",pheno,"B6.129 and 129.B6 consomic w/par",9,both,,,26wks,"Reed DR, Bachmanov AA",2015
+Reed2,"organ weights","Brain, heart, kidney, liver, pancreas, spleen weights.",pheno,"B6.129 and 129.B6 consomic w/par",9,both,,,26wks,"Reed DR, Bachmanov AA",2015
+Reed2,"fat pad weights","Comprehensive, several anatomical sites.",pheno,"B6.129 and 129.B6 consomic w/par",9,both,,,26wks,"Reed DR, Bachmanov AA",2015
+Reed2,DXA,"Body mass, fat mass, lean mass, bone mineral density and content, bone area. High-fat diet vs. control. Two age cohorts.",pheno,"B6.129 and 129.B6 consomic w/par",9,both,,,26wks,"Reed DR, Bachmanov AA",2015
+Reifsnyder1,"study archive","Body weight (several ages), fat mass, body mass index, fat pad weights.",qtla,"QTL population",,m,"NZO/HlLtJ x NON/ShiLtJ backcross",,4-24wks,"Reifsnyder PC",2000
+Reifsnyder2,"study archive","Type 2 diabetes onset.",qtla,"QTL population",,f,"NOD x NOR intercross",,12-40wks,"Reifsnyder PC",2005
+Rhodes1,"running wheel monitoring","Locomotor activity. Exercise wheel group vs. control group. Distance per day.",pheno,inbred,12,both,,exercise,8-15wks,"Rhodes JS, Clark PJ",2010
+Rhodes1,"body weight","Exercise wheel group vs. control group.",pheno,inbred,12,both,,exercise,8-15wks,"Rhodes JS, Clark PJ",2010
+Rhodes1,microscopy,"Examination of hippocampus dentate gyrus. Exercise wheel group vs. control group.",pheno,inbred,12,both,,exercise,8-15wks,"Rhodes JS, Clark PJ",2010
+Rice1,"proteomic profiling","Hair proteomics analysis. Spectral counts for 46 specific proteins.",pheno,inbred,11,both,,,10-19wks,"Rice RH, Sundberg JP",2012
+Richards-Smith1,"study archive","Caloric intake, glucose, body and fat pad weights. Macronutrient diet option.",qtla,"QTL population",,m,"C57BL/6J x CAST/EiJ F2 reciprocal crosses","macronutrient diet option",8-13wks,"Richards-Smith BK, Churchill GA",2002
+Richfield1,"open field test","Locomotor activity. 3 day trials. 45 min sessions.",pheno,inbred,15,m,,,7-9wks,"Richfield EK, Mhyre TR, Cory-Slechta DA, Thiruchelvam M, Chesler EJ",2003
+Richfield1,"neurotransmitter quantification","Neurotransmitters. Molecular measures.",pheno,inbred,15,m,,,7-9wks,"Richfield EK, Mhyre TR, Cory-Slechta DA, Thiruchelvam M, Chesler EJ",2003
+RIKEN-EAD1,"metabolic panel","Clinical blood chemistry (plasma). 4h fast.",pheno,"inbred RBRC",56,both,,,"8, 12 wks","RIKEN BioResource Center / Experimental Animal Division",2008
+RIKEN-EAD1,"complete blood count",Hematology.,pheno,"inbred RBRC",56,both,,,"8, 12 wks","RIKEN BioResource Center / Experimental Animal Division",2008
+RIKEN-EAD1,"lipid profile","Cholesterol, HDL, triglycerides. 4h fast, plasma.",pheno,"inbred RBRC",56,both,,,"8, 12 wks","RIKEN BioResource Center / Experimental Animal Division",2008
+RIKEN-EAD1,"body size and weight","Body weight, body length, tail length.",pheno,"inbred RBRC",56,both,,,"8, 12 wks","RIKEN BioResource Center / Experimental Animal Division",2008
+RIKEN-EAD2,"metabolic panel","Clinical blood chemistry (plasma). 4h fast.",pheno,"wild-derived RBRC",33,both,,,"8, 12 wks","RIKEN BioResource Center / Experimental Animal Division",2008
+RIKEN-EAD2,"complete blood count",Hematology.,pheno,"wild-derived RBRC",33,both,,,"8, 12 wks","RIKEN BioResource Center / Experimental Animal Division",2008
+RIKEN-EAD2,"lipid profile","Cholesterol, HDL, triglycerides. 4h fast, plasma.",pheno,"wild-derived RBRC",33,both,,,"8, 12 wks","RIKEN BioResource Center / Experimental Animal Division",2008
+RIKEN-EAD2,"body size and weight","Body weight, body length, tail length.",pheno,"wild-derived RBRC",33,both,,,"8, 12 wks","RIKEN BioResource Center / Experimental Animal Division",2008
+Rodriguez1,"study archive","Spleen, liver murine cytomegalovirus study.",qtla,"QTL population",,both,"NZW x NZB F2 progeny",,8-12wks,"Rodriguez MR, Churchill GA",2009
+Rosen1,histopathology,"Midsagittal area of corpus callosum.",pheno,"BXD w/par",78,both,,,various,"Rosen GD",2012
+Rosen2,histopathology,"Lateral septal nucleus volume.",pheno,"BXD w/par",71,both,,,various,"Rosen GD",2012
+Rusyn2,"metabolic panel","Blood urea nitrogen, alanine transaminase, aspartate transaminase (serum). Baseline and trichloroethylene-exposed (several timepoints). No fast.",pheno,inbred,17,m,,trichloroethylene,7wks,"Rusyn I, Threadgill DW",2010
+Rusyn2,"drug and metabolite quantification","Trichloroethylene metabolites in serum, 2h, 4h, 24h after trichoroethylene exposure.",pheno,inbred,17,m,,trichloroethylene,7wks,"Rusyn I, Threadgill DW",2010
+Rusyn5,"metabolic panel","Alanine transaminase (serum) after 4wk regimen of ethanol vs. control, both groups on high-fat diet. 24h fast.",pheno,inbred,14,m,,"high-fat diet and ethanol",8-14wks,"Rusyn I",2011
+Rusyn5,"alcohol quantification","Alcohol concentration in blood and urine after 4 wk regimen of ethanol vs. control, both groups on high-fat diet. 24h fast.",pheno,inbred,14,m,,"high-fat diet and ethanol",8-14wks,"Rusyn I",2011
+Rusyn5,"organ weights","Liver weight after 4wk regimen of ethanol vs. control, both groups on high-fat diet. 24h fast.",pheno,inbred,14,m,,"high-fat diet and ethanol",8-14wks,"Rusyn I",2011
+Rusyn5,histopathology,"Liver histopathology, injury after 4wk regimen of ethanol vs. control, both groups on high-fat diet. 24h fast.",pheno,inbred,14,m,,"high-fat diet and ethanol",8-14wks,"Rusyn I",2011
+Rusyn5,"metabolite quantification","Homocysteine concentration after 4wk regimen of ethanol vs. control, both groups on high-fat diet. 24h fast.",pheno,inbred,14,m,,"high-fat diet and ethanol",8-14wks,"Rusyn I",2011
+Rusyn5,"lipid profile","Hepatic triglycerides after 4wk regimen of ethanol and high-fat diet. 24h fast.",pheno,inbred,14,m,,"high-fat diet and ethanol",8-14wks,"Rusyn I",2011
+Rusyn5,"RNA expression profiling","Liver gene expression after 4wk regimen of ethanol and high-fat diet. 24h fast. mRNA abundance relative to the control (high-fat only) group.",pheno,inbred,14,m,,"high-fat diet and ethanol",8-14wks,"Rusyn I",2011
+Rusyn6,"organ weights","Liver, kidney weights. Trichloroethylene-exposed vs. control.",pheno,inbred,7,m,,trichloroethylene,6-7wks,"Rusyn I",2014
+Rusyn6,"metabolic panel","Blood urea nitrogen (serum). Trichloroethylene-exposed vs. control.",pheno,inbred,7,m,,trichloroethylene,6-7wks,"Rusyn I",2014
+Rusyn6,"drug and metabolite quantification","Trichloroethylene metabolite in blood, liver, kidney after trichloroethylene exposure.",pheno,inbred,7,m,,trichloroethylene,6-7wks,"Rusyn I",2014
+Rusyn6,"RNA expression profiling","Trichloroethylene effect on mRNA gene expression in liver and kidney, relative to controls.",pheno,inbred,7,m,,trichloroethylene,6-7wks,"Rusyn I",2014
+Rusyn6,histopathology,"Kidney histopathology evaluation after trichloroethylene exposure, relative to controls.",pheno,inbred,7,m,,trichloroethylene,6-7wks,"Rusyn I",2014
+Rusyn7,"study archive","Toxicokinetics and toxicodynamics of tetrachloroethylene exposure.",phenoarchive,CC,45,both,,tetrachloroethylene,,"Cichocki JA, Rusyn I",2016
+Rusyn8,"study archive","Trichloroethylene exposure.",qtla,CC,45,m,,trichloroethylene,,"Rusyn I, Venkatratnam A",2017
+Rusyn9,"study archive","Nonalcoholic fatty liver disease states, toxicokinetics of tetrachloroethylene exposure.",onestrain,1strain,1,m,C57BL/6J,tetrachloroethylene,,"Cichocki JA, Rusyn I",2017
+Sandell1,"health assessment","Post-injury wound healing. Ear cartilage and articular cartilage.",pheno,"LGXSM w/par",15,both,,,6-7wks,"Sandell LJ",2012
+Sandell1,histopathology,"Post-injury wound healing. Articular cartilage at 12wks and 16wks post-injury.",pheno,"LGXSM w/par",15,both,,,6-7wks,"Sandell LJ",2012
+Sanger4,genotyping,"SNP profiling, 80,000,000+ genomic locations. SNPs and indels. 1-19,X.",snp,inbred,37,both,,,,"Wellcome Trust Sanger Institute",2017
+Schalkwyk1,"Morris water maze","Spatial learning and memory. Multiple trials.",pheno,inbred,8,m,,,9-11wks,"Schalkwyk LC, Fernandes C, Kember R, Lad HV, Liu L, Parsons MJ",2010
+Schalkwyk1,"light-dark box","Anxiety-related behavior.",pheno,inbred,8,m,,,9-11wks,"Schalkwyk LC, Fernandes C, Kember R, Lad HV, Liu L, Parsons MJ",2010
+Schalkwyk1,"open field test","Locomotor activity and exploratory behavior. 5 min test.",pheno,inbred,8,m,,,9-11wks,"Schalkwyk LC, Fernandes C, Kember R, Lad HV, Liu L, Parsons MJ",2010
+Schalkwyk1,"elevated plus maze","Anxiety-related and exploratory behavior. 5 min test.",pheno,inbred,8,m,,,9-11wks,"Schalkwyk LC, Fernandes C, Kember R, Lad HV, Liu L, Parsons MJ",2010
+Schalkwyk1,"puzzle box","Learning and memory.",pheno,inbred,8,m,,,9-11wks,"Schalkwyk LC, Fernandes C, Kember R, Lad HV, Liu L, Parsons MJ",2010
+Schalkwyk1,"tail suspension test","Duration of immobility. Two trials.",pheno,inbred,8,m,,,9-11wks,"Schalkwyk LC, Fernandes C, Kember R, Lad HV, Liu L, Parsons MJ",2010
+Schalkwyk2,"RNA expression profiling","Hippocampal microRNA expression. Normalized data.",pheno,"BXD w/par",26,m,,,15-16wks,"Schalkwyk LC, Chesler EJ, Fernandes C, Liu L, Parsons MJ, Paya-Cano JL",2012
+Schauwecker1,"health assessment","Study of pilocarpine effect on epilepticus seizures.",pheno,inbred,11,m,,pilocarpine,8-10wks,"Schauwecker PE",2012
+Schoenrock1,"body weight","Body weight at weaning and time of test. Comparison of 4 diets.",pheno,"CC RIX",18,f,,,"8-9 wks","Schoenrock SE, Tarantino LM",2018
+Schoenrock1,"open field test","Locomotor activity, anxiety-related behavior. 10 min test. Comparison of 4 diets.",pheno,"CC RIX",18,f,,,"8-9 wks","Schoenrock SE, Tarantino LM",2018
+Schoenrock1,"light-dark box","Anxiety-related behavior. 10 min test. Comparison of 4 diets.",pheno,"CC RIX",18,f,,,"8-9 wks","Schoenrock SE, Tarantino LM",2018
+Schoenrock1,"body temperature","Temperature before and after stress. Comparison of 4 diets.",pheno,"CC RIX",18,f,,,"8-9 wks","Schoenrock SE, Tarantino LM",2018
+Schoenrock1,"forced swim test","Immobility time. 6 min test. Comparison of 4 diets.",pheno,"CC RIX",18,f,,,"8-9 wks","Schoenrock SE, Tarantino LM",2018
+Schoenrock1,"hormone quantification","Serum corticosterone at baseline and 10 mins after stress. Comparison of 4 diets.",pheno,"CC RIX",18,f,,,"8-9 wks","Schoenrock SE, Tarantino LM",2018
+Schonfeld1,"body weight",,pheno,inbred,11,both,,,8-10wks,"Schonfeld G",2005
+Schonfeld1,"glucose tolerance","0 to 120 min after 10% glucose i.p. 5h fast.",pheno,inbred,11,both,,,8-10wks,"Schonfeld G",2005
+Schonfeld1,"insulin tolerance","0 to 120 min after insulin i.p. 5h fast.",pheno,inbred,11,both,,,8-10wks,"Schonfeld G",2005
+Schonfeld1,"lipid profile","Cholesterol, triglycerides, free fatty acids, phospholipids. 5h fast, plasma. Hepatic triglycerides.",pheno,inbred,11,both,,,8-10wks,"Schonfeld G",2005
+Schonfeld1,"metabolic panel","Glucose, beta-hydroxybutyrate (plasma). No fast.",pheno,inbred,11,both,,,8-10wks,"Schonfeld G",2005
+Schonfeld1,"organ weights","Liver weight.",pheno,inbred,11,both,,,8-10wks,"Schonfeld G",2005
+Schonfeld1,DXA,"Fat mass.",pheno,inbred,11,both,,,8-10wks,"Schonfeld G",2005
+Schonfeld1,"hormone quantification","Insulin level, 30 min post-injection in glucose tolerance test. 10% glucose. 5h fast.",pheno,inbred,11,both,,,8-10wks,"Schonfeld G",2005
+Schughart1,"body weight","Influenza A (H1N1) virus vs. baseline. Several timepoints.",pheno,inbred,9,both,,"influenza A (H1N1) virus",10-12wks,"Schughart K",2009
+Schughart1,"health assessment","Strain susceptibility score, influenza A (H1N1) virus.",pheno,inbred,9,both,,"influenza A (H1N1) virus",10-12wks,"Schughart K",2009
+Schughart2,"body weight","Influenza A (H1N1) virus vs. baseline. Several timepoints..",pheno,"BXD w/par",56,f,,"influenza A (H1N1) virus",9-18wks,"Schughart K, Williams RW",2012
+Schughart2,"health assessment","Survival rate, susceptibility, influenza A (H1N1) virus.",pheno,"BXD w/par",56,f,,"influenza A (H1N1) virus",9-18wks,"Schughart K, Williams RW",2012
+Schughart3,"body weight","Influenza A (H3N2) virus (several doses) vs. baseline. Several timepoints.",pheno,"inbred w/CC8",8,both,,"influenza A (H3N2) virus",7-13wks,"Leist SR, Kollmus H, Schughart K",2013
+Schughart3,"health assessment","Survival rate, susceptibility, influenza A (H3N2) virus (several doses).",pheno,"inbred w/CC8",8,both,,"influenza A (H3N2) virus",7-13wks,"Leist SR, Kollmus H, Schughart K",2013
+Schughart4,"body weight","Influenza A (H3N2) virus vs. controls. Several timepoints.",pheno,"inbred w/CC8",8,f,,"influenza A (H3N2) virus",8-12wks,"Leist SR, Kollmus H, Schughart K",2016
+Schughart4,"complete blood count","White blood cell count and differentials. Influenza A (H3N2) virus vs. controls.",pheno,"inbred w/CC8",8,f,,"influenza A (H3N2) virus",8-12wks,"Leist SR, Kollmus H, Schughart K",2016
+Schughart4,"in vitro assay","Viral load in lungs after infection with influenza A (H3N2) virus.",pheno,"inbred w/CC8",8,f,,"influenza A (H3N2) virus",8-12wks,"Leist SR, Kollmus H, Schughart K",2016
+Schughart5,"body weight","Influenza A (H3N2) virus vs. controls. Several timepoints.",pheno,"inbred w/CC8",8,f,,"influenza A (H3N2) virus",8-12wks,"Leist SR, Kollmus H, Schughart K",2016
+Schughart5,"organ weights","Lung weight. Animals infected with influenza A (H3N2) virus vs. controls.",pheno,"inbred w/CC8",8,f,,"influenza A (H3N2) virus",8-12wks,"Leist SR, Kollmus H, Schughart K",2016
+Schulz1,ventilator,"Lung, respiratory function.",pheno,inbred,7,both,,,9-18wks,"Schulz H",2000
+Schulz1,"body weight",,pheno,inbred,7,both,,,9-18wks,"Schulz H",2000
+Schwartz2,"bronchoalveolar lavage assessment","Lung inflammatory changes. Ovalbumin vs. control.",pheno,inbred,8,m,,ovalbumin,6-8wks,"Schwartz DA, Berman KG, Whitehead GS, Walker JK",2001
+Schwartz3,"study archive","Lung, respiratory response to lipopolysaccharide endotoxin.",phenoarchive,inbred,10,both,,,,"Schwartz DA",2003
+Schwartz4,"study archive","Lung, respiratory response to ozone. Methacholine-sensitized.",phenoarchive,inbred,8,both,,,,"Schwartz DA",2004
+Schwartz5,"study archive","Lung, respiratory response to Streptococcus zooepidemicus.",phenoarchive,inbred,8,both,,,,"Schwartz DA",2007
+Seburn1,"body weight",,pheno,inbred,16,both,,,7-9wks,"Seburn KL",2001
+Seburn1,"monitoring system","Locomotor activity and energy metabolism. 24h test.",pheno,inbred,16,both,,,7-9wks,"Seburn KL",2001
+Seburn1,"intake monitoring","Food, caloric, and water intake. Daily.",pheno,inbred,16,both,,,7-9wks,"Seburn KL",2001
+Seburn2,"grip strength","Peak tension. 3 trials. Aging study, 6mo, 12mo, 18mo, 24mo.",pheno,inbred,32,both,,,"26, 52, 78, 104 wks","Seburn KL, Xing S, Burgess RW",2008
+Seburn2,"gait analysis","Aging study, 6mo, 18mo.",pheno,inbred,32,both,,,"26, 52, 78, 104 wks","Seburn KL, Xing S, Burgess RW",2008
+Sheehan1,"study archive","Urinalysis. Creatinine, microalbumin, body weight.",qtla,"QTL population",,m,"C57BL/6J x DBA/2J intercross F2 progeny",,10wks,"Sheehan SM, Churchill GA",2007
+Shimomura1,"study archive","Circadian activity.",qtla,"QTL population",,both,"BALB/cJ x C57BL/6J F2 progeny",,,"Shimomura K, Churchill GA",2001
+Shin1,"observational fear learning test","Percent time freezing to conditioning and contextual exposure.",pheno,inbred,11,m,,,12-14wks,"Shin H, Keum S",2016
+Shin1,"fear conditioning test","Pavlovian fear conditioning.",pheno,inbred,11,m,,,12-14wks,"Shin H, Keum S",2016
+Shin1,"open field test","Locomotor activity and exploratory behavior. 5 min test.",pheno,inbred,11,m,,,12-14wks,"Shin H, Keum S",2016
+Shin1,"elevated plus maze","Exploratory and anxiety-related behaviors. 5 min test.",pheno,inbred,11,m,,,12-14wks,"Shin H, Keum S",2016
+Shin1,"three chamber assay","Sociability testing. Tolerance of a novel mouse, a novel object, and second novel mouse vs. first. 10 min test.",pheno,inbred,11,m,,,12-14wks,"Shin H, Keum S",2016
+Shockley1,"body weight","High-fat diet for 4wks vs. control.",pheno,inbred,10,both,,"high-fat diet",10-13wks,"Shockley K, Paigen B, Churchill GA",2008
+Shockley1,"lipid profile","Cholesterol, HDL, triglycerides, fatty acids. High-fat diet (4wks) vs. control. 5h fast, serum.",pheno,inbred,10,both,,"high-fat diet",10-13wks,"Shockley K, Paigen B, Churchill GA",2008
+Shockley1,"metabolic panel","Clinical blood chemistry measures (serum). High-fat diet (4wks) vs. control.",pheno,inbred,10,both,,"high-fat diet",10-13wks,"Shockley K, Paigen B, Churchill GA",2008
+Shorter1,"study archive","Male fertility assessment.",phenoarchive,"CC pre",347,m,,,,"Shorter JR, O'Brien DA, Pardo-Manuel de Villena F",2017
+Shorter3,"colony observation","Litter size assessment.",pheno,"CC diallel w/par",62,f,,,3wks,"Shorter JR, Maurizio PL, Valdar W, Pardo-Manuel de Villena F",2018
+Solberg1,"study archive","Open field test, forced swim test, defensive burying task.",qtla,"QTL population",,both,"WKY and Fisher 344 rat strain intercross",,11-17wks,"Solberg LC, Churchill GA",2004
+Spijker1,"acoustic startle test","Acoustic startle response, prepulse inhibition.",pheno,"BXD w/par",45,m,,,8wks,"Spijker S",2011
+Spijker1,"choice serial reaction time task","Choice serial reaction time task. Impulsivity, attention, cognitive flexibility behavior.",pheno,"BXD w/par",45,m,,,8wks,"Spijker S",2011
+Spijker2,"home cage monitoring","Exploratory behavior. 4 min and 10 min tests.",pheno,inbred,12,m,,,6wks,"Spijker S",2009
+Spijker2,"open field test","Locomotor activity and exploratory behavior. 10 min test.",pheno,inbred,12,m,,,6wks,"Spijker S",2009
+Spijker2,"light-dark box","Anxiety, avoidance behavior. 5 min test.",pheno,inbred,12,m,,,6wks,"Spijker S",2009
+Spijker2,"elevated plus maze","Exploratory and anxiety-related behaviors. 5 min test.",pheno,inbred,12,m,,,6wks,"Spijker S",2009
+Spijker2,"choice serial reaction time task","Choice serial reaction time task. Impulsivity, attention, cognitive flexibility behavior. 25 min test.",pheno,inbred,12,m,,,6wks,"Spijker S",2009
+Stahl1,"study archive","Hematology and clinical chemistry reference levels.",onestrain,1strain,1,both,C57BL/6J,,6-10wks,"Stahl FR",2018
+Stylianou1,"study archive","Body size, weight, fat pad weights after high-fat diet.",qtla,"QTL population",,both,"SM/J x NZB/BlNJ F2 progeny","high-fat diet",24wks,"Stylianou IM, Churchill GA",2006
+Stylianou2,"study archive","Lipids. Cholesterol, triglycerides, body weight.",qtla,"QTL population",,both,"B6.A consomic and F2 mouse crosses",,8-10wks,"Stylianou IM, Churchill GA",2006
+Su2,"study archive","Lipids (plasma). Cholesterol, triglycerides, aortic lesions, body mass index.",qtla,"QTL population",,f,"C57BL/6J x C3H/HeJ F2 intercross","high-fat diet",14wks,"Su Z, Churchill GA",2009
+Sugiyama1,"tail cuff","Heart rate and blood pressure. Conscious mice.",pheno,inbred,25,m,,,10wks,"Sugiyama F, Tsukahara C, Paigen B",2007
+Sugiyama2,"study archive","Blood pressure (tail cuff) after sodium chloride intake.",qtla,"QTL population",,m,"C57BL/6J x A/J reciprocal back crosses","sodium chloride",10wks,"Sugiyama F, Churchill GA",2001
+Sugiyama3,"study archive","Blood pressure (tail cuff), heart weight, body weight.",qtla,"QTL population",,m,"BALB/cJ and CBA/CaJ F2 progeny",,10wks,"Sugiyama F, Churchill GA",2002
+Sundberg1,"study archive","Histopathology. Aging study.",phenoarchive,inbred,28,both,,,,"Sundberg JP",2008
+Sundberg2,"study archive","Alopecia areata autoimmune disease susceptibility.",qtla,"QTL population",,both,"C3H/HeJ x C57BL/6J intercross F2 progeny",,52wks,"Sundberg JP",2003
+Svenson1,"tail cuff","Heart rate and blood pressure. Conscious mice.",pheno,inbred,14,both,,,9wks,"Svenson KL, Smith RV",2004
+Svenson3,"complete blood count",Hematology.,pheno,"B6.PWD consomic w/par",28,both,,,9wks,"Svenson KL, Forejt J, Donahue L, Paigen B",2006
+Svenson3,"coagulation test","Fibrinogen, anti-thrombin III, factor VIII",pheno,"B6.PWD consomic w/par",28,both,,,9wks,"Svenson KL, Forejt J, Donahue L, Paigen B",2006
+Svenson3,"metabolic panel","Glucose, bilirubin, blood urea nitrogen, aspartate transaminase (plasma). 4h fast.",pheno,"B6.PWD consomic w/par",28,both,,,9wks,"Svenson KL, Forejt J, Donahue L, Paigen B",2006
+Svenson3,"lipid profile","Cholesterol, HDL, triglycerides, free fatty acids. 4h fast, plasma.",pheno,"B6.PWD consomic w/par",28,both,,,9wks,"Svenson KL, Forejt J, Donahue L, Paigen B",2006
+Svenson4,"body size and weight","Body weight, body length, body mass index.",pheno,"B6.PWD consomic w/par",28,both,,,16wks,"Svenson KL, Forejt J, Donahue L, Paigen B",2006
+Svenson4,DXA,"Body mass, fat mass, lean mass, bone mineral density and content.",pheno,"B6.PWD consomic w/par",28,both,,,16wks,"Svenson KL, Forejt J, Donahue L, Paigen B",2006
+Taft1,"assisted reproduction","Performance following assisted reproductive technologies.",pheno,inbred,10,f,,,various,"Taft RA, Byers SL",2006
+Tarantino1,"body weight",,pheno,inbred,45,m,,cocaine,8-11wks,"Tarantino LM, Wiltshire T",2015
+Tarantino1,"open field test","Locomotor activity. Baseline (saline) vs. cocaine 20 mg/kg i.p. 30 min test.",pheno,inbred,45,m,,cocaine,8-11wks,"Tarantino LM, Wiltshire T",2015
+Tarantino2,"open field test","Locomotor activity and exploratory behavior. Mice with ovariectomy surgery vs. controls (sham surgery), 10 min test.",pheno,inbred,37,f,,ovariectomy,8-10wks,"Tarantino LM",2016
+Tarantino2,"forced swim test","Mice with ovariectomy surgery vs. controls (sham surgery), 6 min test.",pheno,inbred,37,f,,ovariectomy,8-10wks,"Tarantino LM",2016
+Thomsen1,"open field test","Locomotor activity. Baseline (saline) vs. cocaine i.p. (several doses). 1.3h and 2.3 h duration.",pheno,inbred,15,both,,cocaine,8-10wks,"Thomsen M, Caine SB",2011
+Thomsen2,"open field test","Locomotor activity. Baseline (saline) vs. dopamine agonists i.p. (several doses). 3h session.",pheno,inbred,15,both,,"quinelorane, R-6-Br-APB",8-10wks,"Thomsen M, Caine SB",2011
+Threadgill1,"metabolic panel","Blood urea nitrogen, alanine transaminase, aspartate transaminase (serum), liver enzyme homeostasis. Acetaminophen (several doses) vs. control, several timepoints post-Rx. 18h fast.",pheno,"inbred w/CC7",37,m,,acetaminophen,8-17wks,"Threadgill DW, Harrill A, Rusyn I",2005
+Threadgill1,histopathology,"Liver histopathology, necrosis after acetaminophen vs. control. 18h fast.",pheno,"inbred w/CC7",37,m,,acetaminophen,8-17wks,"Threadgill DW, Harrill A, Rusyn I",2005
+Threadgill1,"metabolite quantification","Liver protein homeostasis. Acetaminophen vs. control. 18h fast.",pheno,"inbred w/CC7",37,m,,acetaminophen,8-17wks,"Threadgill DW, Harrill A, Rusyn I",2005
+Threadgill1,"biomarker quantification","Liver cytochrome isoforms. Acetaminophen vs. control. 18h fast.",pheno,"inbred w/CC7",37,m,,acetaminophen,8-17wks,"Threadgill DW, Harrill A, Rusyn I",2005
+Threadgill1,"organ weights","Liver weight after acetaminophen (several doses) vs. control. 18h fast.",pheno,"inbred w/CC7",37,m,,acetaminophen,8-17wks,"Threadgill DW, Harrill A, Rusyn I",2005
+Threadgill2,"metabolic panel","Alanine transaminase (serum). Acetaminophen (several doses) vs. control.",pheno,inbred,5,m,,acetaminophen,6-8wks,"Threadgill DW, Harrill A",2005
+Threadgill2,"metabolite quantification",Glutathione.,pheno,inbred,5,m,,acetaminophen,6-8wks,"Threadgill DW, Harrill A",2005
+Threadgill2,"drug and metabolite quantification","Acetaminophen metabolite concentrations (serum) and liver protein homeostasis. Baseline vs. acetaminophen (several doses, several timepoints).",pheno,inbred,5,m,,acetaminophen,6-8wks,"Threadgill DW, Harrill A",2005
+Threadgill2,histopathology,"Liver histopathology, necrosis, injury after acetaminophen vs. control. 18h fast.",pheno,inbred,5,m,,acetaminophen,6-8wks,"Threadgill DW, Harrill A",2005
+Tomasini1,"biomarker quantification",Fibronectin.,pheno,inbred,25,both,,,9wks,"Tomasini-Johansson BR, Mosher DF",2007
+Tordoff1,"body weight","Body weight during testing.",pheno,inbred,28,m,,,9wks,"Tordoff MG, Bachmanov AA",2001
+Tordoff1,"bottle choice test","Various salt solutions (several concentrations) vs. water.",pheno,inbred,28,m,,,9wks,"Tordoff MG, Bachmanov AA",2001
+Tordoff2,"body weight",,pheno,inbred,28,m,,,4-12wks,"Tordoff MG, Bachmanov AA",2001
+Tordoff2,"intake monitoring","Food intake, water intake. Daily.",pheno,inbred,28,m,,,4-12wks,"Tordoff MG, Bachmanov AA",2001
+Tordoff3,"body weight",,pheno,"inbred w/CC7",40,both,,,9-15wks,"Tordoff MG, Bachmanov AA",2002
+Tordoff3,"bottle choice test","Various salt solutions (several concentrations) vs. water.",pheno,"inbred w/CC7",40,both,,,9-15wks,"Tordoff MG, Bachmanov AA",2002
+Tordoff3,DXA,"Body mass, fat mass, lean mass, bone mineral density and content.",pheno,"inbred w/CC7",40,both,,,9-15wks,"Tordoff MG, Bachmanov AA",2002
+Tordoff3,"metabolic panel","Ionized and total blood calcium, blood pH.",pheno,"inbred w/CC7",40,both,,,9-15wks,"Tordoff MG, Bachmanov AA",2002
+Tordoff3,"monitoring system","Bleeding time to collect approx 30 &micro;L.",pheno,"inbred w/CC7",40,both,,,9-15wks,"Tordoff MG, Bachmanov AA",2002
+Trullas1,"elevated plus maze","Exploratory and anxiety-related behaviors. 5 min test.",pheno,inbred,16,m,,,6-8wks,"Trullas R, Skolnick P",1993
+Trullas1,"open field test","Locomotor activity under dim lights vs. bright lights. 5 min test.",pheno,inbred,16,m,,,6-8wks,"Trullas R, Skolnick P",1993
+Trullas1,"monitoring system","Novelty-induced fear test. Eating inhibition due to novelty of environment. 10 min test.",pheno,inbred,16,m,,,6-8wks,"Trullas R, Skolnick P",1993
+Trullas1,"hormone quantification","Corticosterone levels (plasma). Baseline vs. after stress (30 min in restraining cage).",pheno,inbred,16,m,,,6-8wks,"Trullas R, Skolnick P",1993
+Tsaih1,"study archive","Brain weight, body weight.",qtla,"QTL population",,both,"inbred intercross (RIX) hybrids",,,"Tsaih SW, Churchill GA",2005
+UCLA1,genotyping,"SNP profiling, 132,000+ genomic locations, 1-19,X",snp,HMDP,248,both,,,,"Eskin E",2018
+UNC-MMUGA2,genotyping,"SNP profiling, 76,000+ genomic locations, 1-19,X,MT",snp,"CC w/par",77,both,,,,"UNC Systems Genetics",2017
+Vanderlinden1,"body weight",,pheno,ILSXISS,43,both,,,8-23wks,"Vanderlinden LA, Saba L, Bennett B, Hoffman PA, Tabakoff B",2015
+Vanderlinden1,"intake monitoring","Ethanol consumed during 2h availability during dark phase. 4 days/trials with variations.",pheno,ILSXISS,43,both,,,8-23wks,"Vanderlinden LA, Saba L, Bennett B, Hoffman PA, Tabakoff B",2015
+Vinyard1,"body weight",,pheno,inbred,21,both,,,6-8wks,"Vinyard CJ, Payseur BA",2009
+Vinyard1,"bone dimensions","Craniofacial bone dimensions.",pheno,inbred,21,both,,,6-8wks,"Vinyard CJ, Payseur BA",2009
+Vulpe1,"mineral quantification","Liver mineral levels. Iron, copper, zinc. Iron homeostasis.",pheno,inbred,18,both,,,8wks,"McLachlan S, Vulpe CD",2010
+Vulpe1,"transferrin quantification","Diferric transferrin (plasma).",pheno,inbred,18,both,,,8wks,"McLachlan S, Vulpe CD",2010
+Wahlsten1,"organ weights","Brain weight.",pheno,inbred,21,both,,,"9, 12 wks","Wahlsten D, Crabbe JC",2003
+Wahlsten1,"open field test","Locomotor, exploratory, and anxiety-related behavior. 5 min test.",pheno,inbred,21,both,,,"9, 12 wks","Wahlsten D, Crabbe JC",2003
+Wahlsten1,"elevated plus maze","Locomotor, exploratory, and anxiety-related behavior.",pheno,inbred,21,both,,,"9, 12 wks","Wahlsten D, Crabbe JC",2003
+Wahlsten1,histopathology,"Corpus callosum, hippocampus, anterior commisure.",pheno,inbred,21,both,,,"9, 12 wks","Wahlsten D, Crabbe JC",2003
+Wahlsten2,"behavior observation","Wildness scoring during various phenotyping tests.",pheno,inbred,21,both,,,10-12wks,"Wahlsten D, Crabbe JC, Metten P",2003
+Wang1,"study archive","Lipids (plasma). Cholesterol, inducibility, triglycerides, atherosclerosis lesions.",qtla,"QTL population",,f,"C57BL/6J and NZB/BlNJ advanced intercross lines","high-fat diet",10-23wks,"Wang X, Churchill GA",2003
+Wergedal1,"study archive","Bone mineral density, thickness, strength.",qtla,"QTL population",,f,"NZB/BlNJ x RF/J F2 intercross",,10wks,"Wergedal JE, Churchill GA",2006
+Williams1,"immune cell quantification","CD4 T cells, various populations.",pheno,inbred,5,f,,,8wks,"Williams RB",2012
+Willott1,"body weight",,pheno,"inbred w/CC7",40,both,,,5-6wks,"Willott JF, Johnson KR",2002
+Willott1,"acoustic startle test","Acoustic startle response, prepulse inhibition.",pheno,"inbred w/CC7",40,both,,,5-6wks,"Willott JF, Johnson KR",2002
+Wiltshire1,"elevated plus maze","Locomotor activity.",pheno,inbred,38,both,,,12-14wks,"Wiltshire T, Tarantino LM",2010
+Wiltshire1,"open field test","Locomotor activity.",pheno,inbred,38,both,,,12-14wks,"Wiltshire T, Tarantino LM",2010
+Wiltshire1,"light-dark box","Light-dark test. Anxiety-related behavior.",pheno,inbred,38,both,,,12-14wks,"Wiltshire T, Tarantino LM",2010
+Wiltshire2,"tail suspension test","Immobility. Fluoxetine-treated vs. control. 5 min test.",pheno,inbred,30,m,,fluoxetine,9-11wks,"Wiltshire T, Pletcher MT",2011
+Wiltshire2,"open field test","Locomotor activity, exploratory and anxiety-related behavior. Fluoxetine-treated vs. control. 7 min test.",pheno,inbred,30,m,,fluoxetine,9-11wks,"Wiltshire T, Pletcher MT",2011
+Wiltshire2,"drug and metabolite quantification","Fluoxetine and norfluoxetine concentration (serum) after fluoxetine.",pheno,inbred,30,m,,fluoxetine,9-11wks,"Wiltshire T, Pletcher MT",2011
+Wiltshire3,"biomarker quantification","Brain tissue survey of 30 biochemical analytes. Fluoxetine-treated vs. control. 21d.",pheno,inbred,30,m,,fluoxetine,10-11wks,"Wiltshire T, Pletcher MT",2011
+Wiltshire4,"immune cell quantification","In vitro study of 4 cancer chemotherapies (BEZ235, doxorubicin, idarubicin, selumetinib) vs. control. Effect on immune cells. Normalized data.",pheno,"inbred w/CC7",36,m,,"cancer drugs",10wks,"Wiltshire T",2015
+Wirth1,"study archive","Peripheral blood parameters.",phenoarchive,inbred,8,both,,,,"Wirth-Dzieciolowska E, Karaszewska J",2009
+Wittenburg1,"study archive","Liver weight, gallbladder and gallstone histopathology.",qtla,"QTL population",,both,"AKR/J and SWR/J reciprocal backcrosses","high-fat diet",18-20wks,"Wittenberg H, Churchill GA",2002
+Wittenburg2,"study archive","Lipids (plasma), liver weight, gallbladder and gallstone histopathology.",qtla,"QTL population",,both,"PERA/EiJ and I/LnJ reciprocal backcrosses","high-fat diet",6-16wks,"Wittenberg H, Churchill GA",2003
+Wittenburg3,"study archive","Lipids (plasma), liver weight, gallbladder and gallstone histopathology.",qtla,"QTL population",,both,"DBA/2J and PERA/EiJ intercross","high-fat diet",,"Wittenberg H, Churchill GA",2005
+Xing1,ECG,"Heart rate and wave intervals. Conscious. Aging study, 6mo, 12mo, 20mo.",pheno,inbred,29,both,,,"26, 52, 87 wks","Xing S, Korstanje R, Paigen B",2008
+Xing2,"gait analysis","Aging study, 6mo, 12mo, 18mo.",pheno,inbred,31,both,,,"26, 52, 78 wks","Xing S, Paigen B",2010
+Xiong1,"study archive","Circadian behavior.",qtla,"QTL population",,m,"C57BL/6J x 129S1/SvImJ backcross",,9-34wks,"Xiong H, Churchill GA",2011
+Yi1,"study archive","Body weight (several timepoints) and liver weight.",qtla,"QTL population",,both,"M16i x CAST backcross",,2-12wks,"Yi N, Cheverud JM",2007
+Yuan1,"body weight","Aging study, 6mo, 12mo, and 18mo.",pheno,inbred,33,both,,,"26, 52, 78 wks","Yuan R, Rosen CJ, Beamer WG",2007
+Yuan1,"hormone quantification","Insulin-like growth factor 1 (serum). Aging study, 6mo, 12mo, and 18mo.",pheno,inbred,33,both,,,"26, 52, 78 wks","Yuan R, Rosen CJ, Beamer WG",2007
+Yuan2,"colony observation","Life span study. Survival curves. Aging study.",pheno,inbred,31,both,,,"max lifespan","Yuan R, Ackert-Bicknell C, Paigen B, Peters LL",2007
+Yuan3,"metabolic panel","Clinical blood chemistry. Aging study, 6mo, 12mo, 18mo.",pheno,inbred,32,both,,,"26, 52, 78 wks","Yuan R, Korstanje R",2008
+Yuan3,"lipid profile","Cholesterol (HDL). Aging study, 6mo, 12mo, 18mo. 4h fast, plasma.",pheno,inbred,32,both,,,"26, 52, 78 wks","Yuan R, Korstanje R",2008
+Yuan4,"colony observation","Observed age at vaginal opening (patency). Aging study.",pheno,inbred,33,f,,,2-9wks,"Yuan R",2009
+Yuan5,"study archive","Plasma levels of P-selectin and soluble vascular cell adhesion molecule-1.",qtla,"QTL population",,f,apoE-/-,,18wks,"Yuan Z, Churchill GA",2008
+Zhang1,"study archive","Atherosclerosis and glucose homeostasis. Lesions, lipids, glucose, insulin. High-fat, western-style diet.",qtla,"QTL population",,f,"C57BL/6 x BALB/cJ intercross","western diet",<6-18wks,"Zhang Z, Churchill GA",2012
+Zheng1,tympanometry,"Middle ear function.",pheno,inbred,61,both,,,15-51d,"Zheng QY",2008
