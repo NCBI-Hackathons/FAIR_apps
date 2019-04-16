@@ -92,6 +92,12 @@ And we have the measurements that we can get from the
 ## Herding cats
 [![Hearding cats](https://img.youtube.com/vi/Pk7yqlTMvp8/0.jpg)](https://www.youtube.com/watch?v=Pk7yqlTMvp8)
 
+## DisQover
+![disqover](http://54.211.41.249/#start)
+
+## Lifebit.ai
+![lifebit.ai](https://deploit.lifebit.ai/public/jobs/5cb5f8d8b91c3200b25075dc)
+
 ## Final presentation
 ![Slide1](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide01.jpeg)
 ![Slide2](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide02.jpeg)
