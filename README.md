@@ -90,7 +90,7 @@ And we have the measurements that we can get from the
   https://fairshake.cloud/
   
 ## Herding cats
-![herding cats](https://www.youtube.com/watch?v=Pk7yqlTMvp8)
+[![Hearding cats](https://img.youtube.com/vi/Pk7yqlTMvp8/0.jpg)](https://www.youtube.com/watch?v=Pk7yqlTMvp8)
 
 ## Final presentation
 ![Slide1](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide01.jpeg)
