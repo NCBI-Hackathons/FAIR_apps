@@ -90,4 +90,4 @@ And we have the measurements that we can get from the
   https://fairshake.cloud/
  
 ## Final presentation
-![]
+![Slide1](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide01.jpeg)
