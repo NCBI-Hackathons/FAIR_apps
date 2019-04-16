@@ -1,0 +1,68 @@
+# Exomiser
+
+### Program Version
+* 10.1.0
+
+### Databiology Application Version
+* 3.1.1
+
+### Description
+The Exomiser is a program that finds potential disease-causing variants from whole-exome or whole-genome sequencing data.
+
+Starting from a VCF file and a set of phenotypes encoded using the Human Phenotype Ontology (HPO) it will annotate, filter and prioritize likely causative variants. The program does this based on user-defined criteria such as a variant's predicted pathogenicity, the frequency of occurrence in a population and also how closely the given phenotype matches the known phenotype of diseased genes from human and model organism data.
+
+Variants are prioritized according to user-defined criteria on variant frequency, pathogenicity, quality, inheritance pattern, and model organism phenotype data. Predicted pathogenicity data is extracted from the dbNSFP resource. Variant frequency data is taken from the 1000 Genomes, ESP and ExAC datasets. Subsets of these frequency and pathogenicity data can be defined to further tune the analysis. Cross-species phenotype comparisons come from PhenoDigm tool powered by the OWLTools OWLSim algorithm.
+
+### Supported architectures
+* x86_64
+
+### Input files
+* VCF files (can be compressed, will be uncompressed before run).
+
+### Output files
+* HTML
+* TSV
+* VCF
+
+### Application Parameters
+|__Name__|__Description__|__Values__|__Default__|
+|--------|---------------|----------|-----------|
+|Reference Genome|Select your reference genome assembly|hg19, hg38|hg19|
+|HPO ids|HPO identifiers separated by spaces. Example: HP:0001156 HP:0001363 HP:0011304 HP:0010055|valid HPO ids|none|
+|HPO from annotation|Use HPO terms in Sample annotations|active, inactive|inactive|
+|Inheritance modes|Define the Inheritance mode and the maximal minor allele frequency (MAF) cut-off, it can use multiple values separating them with commas. Example: AUTOSOMAL_DOMINANT: 0.1, AUTOSOMAL_RECESSIVE_HOM_ALT: 0.1, AUTOSOMAL_RECESSIVE_COMP_HET: 2.0, X_DOMINANT: 0.1, X_RECESSIVE_HOM_ALT: 0.1, X_RECESSIVE_COMP_HET: 2.0, MITOCHONDRIAL: 0.2|AUTOSOMAL_DOMINANT: n, AUTOSOMAL_RECESSIVE_HOM_ALT: n, AUTOSOMAL_RECESSIVE_COMP_HET: n, X_DOMINANT: n, X_RECESSIVE_HOM_ALT: n, X_RECESSIVE_COMP_HET: n, MITOCHONDRIAL: n|AUTOSOMAL_DOMINANT: 0.1|
+|Analysis mode|Select the analysis mode|PASS_ONLY, FULL, SPARSE|PASS_ONLY|
+|Population sources|Define the population sources for allele frequency, values are separated by commas|THOUSAND_GENOMES, TOPMED, UK10K, ESP_AFRICAN_AMERICAN, ESP_EUROPEAN_AMERICAN, ESP_ALL, EXAC_AFRICAN_INC_AFRICAN_AMERICAN, EXAC_AMERICAN, EXAC_SOUTH_ASIAN, EXAC_EAST_ASIAN, EXAC_FINNISH, EXAC_NON_FINNISH_EUROPEAN, EXAC_OTHER, GNOMAD_E_AFR, GNOMAD_E_AMR, GNOMAD_E_ASJ, GNOMAD_E_EAS, GNOMAD_E_FIN, GNOMAD_E_NFE, GNOMAD_E_OTH,GNOMAD_E_SAS, GNOMAD_G_AFR,  GNOMAD_G_AMR, GNOMAD_G_ASJ, GNOMAD_G_EAS, GNOMAD_G_FIN, GNOMAD_G_NFE, GNOMAD_G_OTH, GNOMAD_G_SAS|THOUSAND_GENOMES, ESP_ALL|
+|Pathogenicity source|Define the pathogenicity sources to use, values are separated by commas. Available sources: POLYPHEN, MUTATION_TASTER, SIFT|user defined|POLYPHEN, MUTATION_TASTER, SIFT|
+|Restrict interval|Restrict an interval in the genome indicating chrom:start-end. Example: chr10:123256200-123256300|user defined|none|
+|Gene panel|Define a list of genes to evaluate, use official Gene Symbols separated by spaces. Example: FGFR1 FGFR2|user defined|none|
+|Min. quality|Filter candidates variants by this quality cut-off, example: 50.0|numeric value|none|
+|Variant effect filter|Remove this classes of variants, values are separated by commas|UPSTREAM_GENE_VARIANT, INTERGENIC_VARIANT, REGULATORY_REGION_VARIANT, CODING_TRANSCRIPT_INTRON_VARIANT, NON_CODING_TRANSCRIPT_INTRON_VARIANT, SYNONYMOUS_VARIANT, DOWNSTREAM_GENE_VARIANT, SPLICE_REGION_VARIANT|UPSTREAM_GENE_VARIANT, SYNONYMOUS_VARIANT, INTERGENIC_VARIANT, DOWNSTREAM_GENE_VARIANT|
+|Max. frequency|Filter variants with a frequency in the selected populations higher than this value|numeric percentage|100.0|
+|No regulatory variants|Removes all non-regulatory non-coding variants over 20Kb from a known gene|active, inactive|active|
+|No known variants|Removes known variants represented in the database|active, inactive|inactive|
+|Keep no pathogenic|Reports no pathogenic variants|active, inactive|inactive|
+|Inheritance filter|Use inheritance filter|active, inactive|active|
+|OMIM prioritiser|Use OMIM prioritiser|active, inactive|active|
+|Prioritiser method|Selects a method to prioritise variants|none, phenix, hiPhive, phive, exomeWalker|phenix|
+|Prioritiser parameters|Passes additional parameters for the selected prioritiser. Example for hiPhive: diseaseId: 'OMIM:101600', candidateGeneSymbol: FGFR2, runParams: 'human,mouse,fish,ppi'|user defined|none|
+|Priority score filters|Passes additional parameters for priority score filtering. Example for hiPhive: priorityType: HIPHIVE_PRIORITY, minPriorityScore: 0.501|user defined|none|
+|Pass-Variants only|Output PASS_ONLY variants (reduces time and memory)|active, inactive|active|
+|Merged VCF prefix|Out prefix for the merged VCF (pedigree analysis only)|user defined|combined|
+|Pedigree analysis|Use pedigree information to analyze variants, PED file is created from Sample information|active, inactive|inactive|
+|Num. genes|Number of candidates genes to show, if empty or 0 it will show all|numeric|0|
+|Output format|Output format. It can be multiple outputs: HTML,TSV-GENE,VCF| HTML, VCF, TSV-VARIANT, TSV-GENE|HTML|
+|Output prefix|Output prefix name, if missing, the VCF basename is used|user defined|none|
+
+### License
+[GNU Affero General Public License v3.0](https://opensource.org/licenses/AGPL-3.0)
+
+### External link
+[Homepage](http://www.sanger.ac.uk/science/tools/exomiser/)
+
+### Application Changelog
+|Version|Release Notes|
+|-------|-------------|
+|3.1.1|Program update from 7.2.1 to 10.0.1|
+|2.5.0|Initial port to CIAO|
+
