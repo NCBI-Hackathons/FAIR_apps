@@ -1,0 +1,258 @@
+CIAO: 5
+
+
+ABOUT:
+
+    NAME:          app/dbio/exomiser
+    LABEL:         "Exomiser"
+    AUTHOR:        juan.caballero@databiology.com
+    DESCRIPTION:   "Application - Exomiser is a program that finds potential disease-causing variants from whole-exome or whole-genome sequencing data. Starting from a VCF file and a set of phenotypes encoded using the Human Phenotype Ontology (HPO) it will annotate, filter and prioritize likely causative variants"
+
+
+REFERENCES:
+
+    -
+        SOURCETREE: /ref/dbio/exomiser/10.0.1
+        MOUNTPOINT: /ref/exomiser
+
+
+PARAMETERS:
+
+    -
+        TYPE:        CHOICE
+        KEY:         genome
+        LABEL:       "Reference Genome"
+        VALUE:       "hg19"
+        CHOICES:
+            - "hg19"
+            - "hg38"
+        MODIFIABLE:  True
+        REQUIRED:    True
+        DESCRIPTION: "Select your reference genome assembly"
+
+    -
+        TYPE:        TEXT
+        KEY:         hpo
+        LABEL:       "HPO ids"
+        VALUE:       ""
+        MODIFIABLE:  True
+        DESCRIPTION: "HPO identifiers separated by spaces. Example: HP:0001156 HP:0001363 HP:0011304 HP:0010055"
+        REQUIRED:    False
+
+    -
+        TYPE:        SWITCH
+        KEY:         metahpo
+        LABEL:       "HPO from annotation"
+        VALUE:       False
+        MODIFIABLE:  True
+        DESCRIPTION: "Use HPO terms in Sample annotations"
+
+    -
+        TYPE:        TEXT
+        KEY:         inheritance
+        LABEL:       "Inheritance modes"
+        VALUE:       "AUTOSOMAL_DOMINANT: 0.1"
+        MODIFIABLE:  True
+        DESCRIPTION: "Define the Inheritance mode and the maximal minor allele frequency (MAF) cut-off, it can use multiple values separating them with commas. Example: AUTOSOMAL_DOMINANT: 0.1, AUTOSOMAL_RECESSIVE_HOM_ALT: 0.1, AUTOSOMAL_RECESSIVE_COMP_HET: 2.0, X_DOMINANT: 0.1, X_RECESSIVE_HOM_ALT: 0.1, X_RECESSIVE_COMP_HET: 2.0, MITOCHONDRIAL: 0.2"
+        REQUIRED:    False
+
+    -
+        TYPE:        CHOICE
+        KEY:         analysis
+        LABEL:       "Analysis mode"
+        VALUE:       "PASS_ONLY"
+        CHOICES:
+            - "PASS_ONLY"
+            - "FULL"
+            - "SPARSE"
+        MODIFIABLE:  True
+        REQUIRED:    True
+        DESCRIPTION: "Select the analysis mode"
+
+    -
+        TYPE:        TEXT
+        KEY:         popfreq
+        LABEL:       "Population sources"
+        VALUE:       "THOUSAND_GENOMES, ESP_ALL"
+        MODIFIABLE:  True
+        DESCRIPTION: "Define the population sources for allele frequency, values are separated by commas. Available sources: THOUSAND_GENOMES, TOPMED, UK10K, ESP_AFRICAN_AMERICAN, ESP_EUROPEAN_AMERICAN, ESP_ALL, EXAC_AFRICAN_INC_AFRICAN_AMERICAN, EXAC_AMERICAN, EXAC_SOUTH_ASIAN, EXAC_EAST_ASIAN, EXAC_FINNISH, EXAC_NON_FINNISH_EUROPEAN, EXAC_OTHER, GNOMAD_E_AFR, GNOMAD_E_AMR, GNOMAD_E_ASJ, GNOMAD_E_EAS, GNOMAD_E_FIN, GNOMAD_E_NFE, GNOMAD_E_OTH,GNOMAD_E_SAS, GNOMAD_G_AFR, GNOMAD_G_AMR, GNOMAD_G_ASJ, GNOMAD_G_EAS, GNOMAD_G_FIN, GNOMAD_G_NFE, GNOMAD_G_OTH, GNOMAD_G_SAS"
+        REQUIRED:    False
+
+    -
+        TYPE:        TEXT
+        KEY:         pathsource
+        LABEL:       "Pathogenicity source"
+        VALUE:       "POLYPHEN, MUTATION_TASTER, SIFT"
+        REQUIRED:    True
+        DESCRIPTION: "Define the pathogenicity sources to use, values are separated by commas. Available sources: POLYPHEN, MUTATION_TASTER, SIFT"
+        MODIFIABLE:  True
+
+    -
+        TYPE:        TEXT
+        KEY:         interval
+        LABEL:       "Restrict interval"
+        VALUE:       ""
+        MODIFIABLE:  True
+        DESCRIPTION: "Restrict an interval in the genome indicating chrom:start-end. Example: chr10:123256200-123256300"
+        REQUIRED:    False
+
+    -
+        TYPE:        TEXT
+        KEY:         genes
+        LABEL:       "Gene panel"
+        VALUE:       ""
+        MODIFIABLE:  True
+        DESCRIPTION: "Define a list of genes to evaluate, use official Gene Symbols separated by spaces. Example: FGFR1 FGFR2"
+        REQUIRED:    False
+
+    -
+        TYPE:        TEXT
+        KEY:         minqual
+        LABEL:       "Min. quality"
+        VALUE:       "0.0"
+        MODIFIABLE:  True
+        DESCRIPTION: "Filter candidates variants by this quality cut-off, example: 50.0"
+        REQUIRED:    False
+
+    -
+        TYPE:        TEXT
+        KEY:         varfilter
+        LABEL:       "Variant effect filter"
+        VALUE:       "UPSTREAM_GENE_VARIANT, SYNONYMOUS_VARIANT, INTERGENIC_VARIANT, DOWNSTREAM_GENE_VARIANT"
+        MODIFIABLE:  True
+        DESCRIPTION: "Remove this classes of variants, values are separated by commas. Available types: UPSTREAM_GENE_VARIANT, INTERGENIC_VARIANT, REGULATORY_REGION_VARIANT, CODING_TRANSCRIPT_INTRON_VARIANT, NON_CODING_TRANSCRIPT_INTRON_VARIANT, SYNONYMOUS_VARIANT, DOWNSTREAM_GENE_VARIANT, SPLICE_REGION_VARIANT"
+        REQUIRED:    False
+
+    -
+        TYPE:        TEXT
+        KEY:         maxfreq
+        LABEL:       "Max. frequency"
+        VALUE:       "100.0"
+        MODIFIABLE:  True
+        DESCRIPTION: "Filter variants with a frequency in the selected populations higher than this value"
+        REQUIRED:    False
+
+    -
+        TYPE:        SWITCH
+        KEY:         regfilter
+        LABEL:       "No regulatory variants"
+        VALUE:       True
+        MODIFIABLE:  True
+        DESCRIPTION: "Removes all non-regulatory non-coding variants over 20Kb from a known gene"
+
+    -
+        TYPE:        SWITCH
+        KEY:         knownvar
+        LABEL:       "No known variants"
+        VALUE:       False
+        MODIFIABLE:  True
+        DESCRIPTION: "Removes known variants represented in the database"
+
+    -
+        TYPE:        SWITCH
+        KEY:         keepnopath
+        LABEL:       "Keep no pathogenic"
+        VALUE:       False
+        MODIFIABLE:  True
+        DESCRIPTION: "Reports no pathogenic variants"
+
+    -
+        TYPE:        SWITCH
+        KEY:         inhfilter
+        LABEL:       "Inheritance filter"
+        VALUE:       True
+        MODIFIABLE:  True
+        DESCRIPTION: "Use inheritance filter"
+
+    -
+        TYPE:        SWITCH
+        KEY:         omimprior
+        LABEL:       "OMIM prioritiser"
+        VALUE:       True
+        MODIFIABLE:  True
+        DESCRIPTION: "Use OMIM prioritiser"
+
+    -
+        TYPE:        CHOICE
+        KEY:         method
+        LABEL:       "Prioritiser method"
+        VALUE:       "phenix"
+        CHOICES:
+            - "none"
+            - "phenix"
+            - "hiPhive"
+            - "phive"
+            - "exomeWalker"
+        DESCRIPTION: "Selects a method to prioritise variants"
+        MODIFIABLE:  True
+        REQUIRED:    True
+
+    -
+        TYPE:        TEXT
+        KEY:         methodparam
+        LABEL:       "Prioritiser parameters"
+        VALUE:       ""
+        MODIFIABLE:  True
+        DESCRIPTION: "Passes additional parameters for the selected prioritiser. Example for hiPhive: diseaseId: 'OMIM:101600', candidateGeneSymbol: FGFR2, runParams: 'human,mouse,fish,ppi'. Example for exomeWalker: seedGeneIds: [11111, 22222, 33333]"
+        REQUIRED:    False
+
+    -
+        TYPE:        TEXT
+        KEY:         priorscore
+        LABEL:       "Priority score filters"
+        VALUE:       ""
+        MODIFIABLE:  True
+        DESCRIPTION: "Passes additional parameters for priority score filtering. Example for hiPhive: priorityType: HIPHIVE_PRIORITY, minPriorityScore: 0.501"
+        REQUIRED:    False
+
+    -
+        TYPE:        SWITCH
+        KEY:         pass
+        LABEL:       "Pass-Variants only"
+        VALUE:       True
+        MODIFIABLE:  True
+        DESCRIPTION: "Output PASS_ONLY variants (reduces time and memory)"
+
+    -
+        TYPE:        TEXT
+        KEY:         mergedvcf
+        LABEL:       "Merged VCF prefix"
+        VALUE:       "combined"
+        MODIFIABLE:  True
+        DESCRIPTION: "Out prefix for the merged VCF (pedigree analysis only)"
+        REQUIRED:    False
+
+    -
+        TYPE:        SWITCH
+        KEY:         pedanalysis
+        LABEL:       "Pedigree analysis"
+        VALUE:       False
+        MODIFIABLE:  True
+        DESCRIPTION: "Use pedigree information to analyze variants"
+
+    -
+        TYPE:        TEXT
+        KEY:         numgenes
+        LABEL:       "Num. genes"
+        VALUE:       "0"
+        MODIFIABLE:  True
+        DESCRIPTION: "Number of genes to show, if empty or 0 it will show all"
+        REQUIRED:    False
+
+    -
+        TYPE:        TEXT
+        KEY:         format
+        LABEL:       "Output format"
+        VALUE:       "HTML"
+        MODIFIABLE:  True
+        DESCRIPTION: "Output format. Options: HTML, VCF, TSV-VARIANT, TSV-GENE. It can be multiple outputs: HTML,TSV-GENE,VCF"
+        REQUIRED:    False
+
+    -
+        TYPE:        TEXT
+        KEY:         outname
+        LABEL:       "Output prefix"
+        VALUE:       ""
+        MODIFIABLE:  True
+        DESCRIPTION: "Output prefix name, if missing, the VCF basename is used"
+        REQUIRED:    False
