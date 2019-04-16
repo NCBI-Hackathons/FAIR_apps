@@ -88,6 +88,10 @@ And we have the measurements that we can get from the
  
 ## All applications and data will be given a FAIRShake
   https://fairshake.cloud/
+  
+## Herding cats
+//blanket example
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=watch?v=Pk7yqlTMvp8></a>
  
 ## Final presentation
 ![Slide1](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide01.jpeg)
