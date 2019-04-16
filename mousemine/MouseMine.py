@@ -115,7 +115,8 @@ def mouse_phenotypes_by_homolog(token = "Q1p6LaH2P745Laz95f01"):
 
 
 def main():
-	print(json.dumps(mouse_phenotypes_by_homolog()))
+	with open('../data/mousemine_out/Pfeiffer.mousemine.phenotypes.json', 'w') as outfile:
+		json.dump(mouse_phenotypes_by_homolog(), outfile)
 
 if(__name__ == "__main__"):
 	main()
