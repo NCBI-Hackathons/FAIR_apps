@@ -100,4 +100,5 @@ And we have the measurements that we can get from the
 ![Slide8](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide08.jpeg)
 ![Slide9](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide09.jpeg)
 ![Slide10](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide10.jpeg)
+![Slide11](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide11.jpeg)
 
