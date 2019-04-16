@@ -91,3 +91,13 @@ And we have the measurements that we can get from the
  
 ## Final presentation
 ![Slide1](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide01.jpeg)
+![Slide2](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide02.jpeg)
+![Slide3](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide03.jpeg)
+![Slide4](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide04.jpeg)
+![Slide5](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide05.jpeg)
+![Slide6](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide06.jpeg)
+![Slide7](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide07.jpeg)
+![Slide8](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide08.jpeg)
+![Slide9](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide09.jpeg)
+![Slide10](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide10.jpeg)
+
