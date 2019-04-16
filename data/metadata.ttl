@@ -1,82 +1,154 @@
-  BASE <http://w3id.org/bioit_fair_apps/data#>
-  PREFIX : <http://w3id.org/bioit_fair_apps/data#>
-  PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+BASE <http://w3id.org/bioit_fair_apps/data#>
+PREFIX : <http://w3id.org/bioit_fair_apps/data#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
-  PREFIX cito: <http://purl.org/spar/cito/>
-  PREFIX dcat: <http://www.w3.org/ns/dcat#>
-  PREFIX dctypes: <http://purl.org/dc/dcmitype/>
-  PREFIX dct: <http://purl.org/dc/terms/>
-  PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-  PREFIX freq: <http://purl.org/cld/freq/>
-  PREFIX idot: <http://identifiers.org/idot/>
-  PREFIX lexvo: <http://lexvo.org/ontology#>
-  PREFIX pav: <http://purl.org/pav/>
-  PREFIX prov: <http://www.w3.org/ns/prov#>
-  PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-  PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-  PREFIX schemaorg: <http://schema.org/>
-  PREFIX sd: <http://www.w3.org/ns/sparql-service-description#>
-  PREFIX sio: <http://semanticscience.org/resource/>
-  PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-  PREFIX void: <http://rdfs.org/ns/void/>
-  PREFIX void-ext: <http://ldf.fi/void-ext#>
+PREFIX cito: <http://purl.org/spar/cito/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dctypes: <http://purl.org/dc/dcmitype/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX freq: <http://purl.org/cld/freq/>
+PREFIX idot: <http://identifiers.org/idot/>
+PREFIX lexvo: <http://lexvo.org/ontology#>
+PREFIX pav: <http://purl.org/pav/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schemaorg: <http://schema.org/>
+PREFIX sd: <http://www.w3.org/ns/sparql-service-description#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX void: <http://rdfs.org/ns/void/>
+PREFIX void-ext: <http://ldf.fi/void-ext#>
 
-  ###Summary Level (Complete)
-  :pfeiffer
-      rdf:type dctypes:Dataset, dcat:Dataset ;
-      dct:title "Pfeiffer"@en ;
-      dct:alternative "Pfeiffer"@en ;
-      dct:description """Example file with causative FGFR2 variant for the autosomal
-                         dominant Pfeiffer syndrome added to exome of a healthy individual"""@en ;
-      dct:publisher <http://monarchinitiative.org> ;
-      foaf:page <http://monarchinitiative.org/exomiser> ;
-      schemaorg:logo <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/logo.png> ;
-      dct:license <https://opensource.org/licenses/AGPL-3.0> ;
-      dct:rights <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/legal> ;
-      dcat:theme <http://edamontology.org/topic_0622> ; # edam:genomics
-      dcat:keyword "vcf"^^xsd:string, "monarch"^^xsd:string, "exomiser"^^xsd:string ;
-      dct:references <https://www.cell.com/ajhg/fulltext/S0002-9297(16)30278-6> ;
-      rdfs:seeAlso <https://github.com/exomiser/Exomiser> ;
-      cito:citesAsAuthority <https://www.cell.com/ajhg/fulltext/S0002-9297(16)30278-6> ;
-      # Identifiers
-      idot:preferredPrefix "bioit_fair_apps" ;
-      dct:identifier "pfeiffer" ;
-      # Provenance and Change
-      # Availability/Distributions
-      dcat:accessURL <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/submit> ;
-      dcat:distribution :pfeiffer-vcf .
+###Summary Level (Complete)
+:pfeiffer
+  rdf:type dctypes:Dataset, dcat:Dataset, prov:Entity ;
+  dct:title "Pfeiffer"@en ;
+  dct:alternative "Pfeiffer"@en ;
+  dct:description """Example file with causative FGFR2 variant for the autosomal
+                     dominant Pfeiffer syndrome added to exome of a healthy individual"""@en ;
+  dct:publisher <http://monarchinitiative.org> ;
+  foaf:page <http://monarchinitiative.org/exomiser> ;
+  schemaorg:logo <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/logo.png> ;
+  dct:license <https://opensource.org/licenses/AGPL-3.0> ;
+  dct:rights <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/legal> ;
+  dcat:theme <http://edamontology.org/topic_0622> ; # edam:genomics
+  dcat:keyword "vcf"^^xsd:string, "monarch"^^xsd:string, "exomiser"^^xsd:string ;
+  dct:references <https://www.cell.com/ajhg/fulltext/S0002-9297(16)30278-6> ;
+  rdfs:seeAlso <https://github.com/exomiser/Exomiser> ;
+  cito:citesAsAuthority <https://www.cell.com/ajhg/fulltext/S0002-9297(16)30278-6> ;
+  # Identifiers
+  idot:preferredPrefix "bioit_fair_apps" ;
+  dct:identifier "pfeiffer" ;
+  # Provenance and Change
+  # Availability/Distributions
+  dcat:accessURL <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/submit> ;
+  dcat:distribution :pfeiffer-vcf .
 
-  ###Distribution (non-RDF) description (Complete)
-  :pfeiffer-vcf
-      a dctypes:Dataset, dcat:Distribution ;
-      dct:title "Pfeiffer"@en ;
-      dct:alternative "Pfeiffer"@en ;
-      dct:description """Example file with causative FGFR2 variant for the autosomal
-                         dominant Pfeiffer syndrome added to exome of a healthy individual"""@en ;
-      dct:created "2019-04-15"^^xsd:gYearMonth ;
-      pav:createdOn "2019-04-15"^^xsd:gYearMonth ;
-      pav:authoredOn "2019-04-15"^^xsd:gYearMonth ;
-      pav:curatedOn "2019-04-15"^^xsd:gYearMonth ;
-      dct:creator <http://monarchinitiative.org> ;
-      pav:createdBy <https://orcid.org/0000-0003-1099-3328> ;
-      dct:issued "2018-11-14"^^xsd:date ;
-      dct:publisher <http://monarchinitiative.org> ;
-      foaf:page <http://monarchinitiative.org/> ;
-      schemaorg:logo <http://www.ebi.ac.uk/rdf/sites/ebi.ac.uk.rdf/files/resize/images/rdf/chembl_service_logo-146x48.gif> ;
-      dct:license <http://creativecommons.org/licenses/by-sa/3.0/> ;
-      dct:rights <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/legal> ;
-      dct:language <http://lexvo.org/id/iso639-3/eng> ;
-      dcat:theme <http://edamontology.org/topic_0622> ; # edam:genomics
-      dcat:keyword "vcf"^^xsd:string, "monarch"^^xsd:string, "exomiser"^^xsd:string ;
-      ##Vocabulary does not make sense for a non-RDF dataset
-      dct:conformsTo <http://www.w3.org/2001/sw/hcls/notes/hcls-dataset/> ;
-      dct:references <https://www.cell.com/ajhg/fulltext/S0002-9297(16)30278-6> ;
-      #Provenance and Change
-      dct:source :pfeiffer ;
-      pav:retrievedFrom <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/submit> ;
-      #Availability/Distributions
-      dct:format "text/plain" ;
-      dcat:accessURL <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/submit> ;
-      dcat:landingPage <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/index> ;
-      dcat:downloadURL <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/Pfeiffer.vcf> ;
-      dcat:byteSize "861443887"^^xsd:decimal .
+###Distribution (non-RDF) description (Complete)
+:pfeiffer-vcf
+  a dcat:Distribution ;
+  dct:title "Pfeiffer"@en ;
+  dct:alternative "Pfeiffer"@en ;
+  dct:description """Example file with causative FGFR2 variant for the autosomal
+                     dominant Pfeiffer syndrome added to exome of a healthy individual"""@en ;
+  dct:created "2019-04-15"^^xsd:gYearMonth ;
+  pav:createdOn "2019-04-15"^^xsd:gYearMonth ;
+  pav:authoredOn "2019-04-15"^^xsd:gYearMonth ;
+  pav:curatedOn "2019-04-15"^^xsd:gYearMonth ;
+  dct:creator <http://monarchinitiative.org> ;
+  pav:createdBy <https://orcid.org/0000-0003-1099-3328> ;
+  dct:issued "2018-11-14"^^xsd:date ;
+  dct:publisher <http://monarchinitiative.org> ;
+  foaf:page <http://monarchinitiative.org/> ;
+  schemaorg:logo <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/logo.png> ;
+  dct:license <http://creativecommons.org/licenses/by-sa/3.0/> ;
+  dct:rights <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/legal> ;
+  dct:language <http://lexvo.org/id/iso639-3/eng> ;
+  dcat:theme <http://edamontology.org/topic_0622> ; # edam:genomics
+  dcat:keyword "vcf"^^xsd:string, "monarch"^^xsd:string, "exomiser"^^xsd:string ;
+  ##Vocabulary does not make sense for a non-RDF dataset
+  dct:conformsTo <http://www.w3.org/2001/sw/hcls/notes/hcls-dataset/> ;
+  dct:references <https://www.cell.com/ajhg/fulltext/S0002-9297(16)30278-6> ;
+  #Provenance and Change
+  dct:source :pfeiffer ;
+  pav:retrievedFrom <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/submit> ;
+  #Availability/Distributions
+  dct:format "text/plain" ;
+  dcat:accessURL <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/submit> ;
+  dcat:landingPage <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/index> ;
+  dcat:downloadURL <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/Pfeiffer.vcf> ;
+  dcat:byteSize "861443887"^^xsd:decimal .
+
+### Summary Level (Complete)
+:Pfeiffer.exomiser_AD.genes
+    rdf:type dctypes:Dataset, dcat:Dataset, prov:Entity ;
+    dct:title "Pfeiffer Exomiser Autosomal Dominant Genes Result"@en ;
+    dct:alternative "Pfeiffer-Exomiser"@en ;
+    dct:description """Example result from Exomizer that was run on a file with causative FGFR2 variant for the autosomal
+                       dominant Pfeiffer syndrome added to exome of a healthy individual"""@en ;
+    dct:publisher <http://monarchinitiative.org> ;
+    foaf:page <http://monarchinitiative.org/exomiser> ;
+    schemaorg:logo <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/logo.png> ;
+    dct:license <https://opensource.org/licenses/AGPL-3.0> ;
+    dct:rights <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/legal> ;
+    dcat:theme <http://edamontology.org/topic_0622> ; # edam:genomics
+    dcat:keyword "vcf"^^xsd:string, "monarch"^^xsd:string, "exomiser"^^xsd:string, "result"^^xsd:string ;
+    dct:references <https://www.cell.com/ajhg/fulltext/S0002-9297(16)30278-6> ;
+    rdfs:seeAlso <https://github.com/exomiser/Exomiser> ;
+    cito:citesAsAuthority <https://www.cell.com/ajhg/fulltext/S0002-9297(16)30278-6> ;
+    # Identifiers
+    idot:preferredPrefix "bioit_fair_apps" ;
+    dct:identifier "Pfeiffer.exomiser_AD.genes" ;
+    # Provenance and Change
+    prov:wasDerivedFrom :pfeiffer ;
+    prov:wasGeneratedBy :exomizer-pfeiffer-activity ;
+    prov:wasAttributedTo <https://orcid.org/0000-0003-1099-3328> ;
+    # Availability/Distributions
+    dcat:accessURL <https://github.com/NCBI-Hackathons/FAIR_apps/tree/master/data/exomiser_out> ;
+    dcat:distribution :pfeiffer-exomizer-tsv .
+
+###Distribution (non-RDF) description (Complete)
+:pfeiffer-exomizer-tsv
+    a dcat:Distribution ;
+    dct:title "Pfeiffer Exomiser TSV Genes"@en ;
+    dct:alternative "Pfeiffer-Exomiser"@en ;
+    dct:description """Example result from Exomizer that was run on a file with causative FGFR2 variant for the autosomal
+                       dominant Pfeiffer syndrome added to exome of a healthy individual"""@en ;
+    dct:created "2019-04-16"^^xsd:gYearMonth ;
+    pav:createdOn "2019-04-16"^^xsd:gYearMonth ;
+    pav:authoredOn "2019-04-16"^^xsd:gYearMonth ;
+    pav:curatedOn "2019-04-16"^^xsd:gYearMonth ;
+    dct:creator <http://monarchinitiative.org> ;
+    pav:createdBy <https://orcid.org/0000-0003-1099-3328> ;
+    dct:issued "2019-04-16"^^xsd:date ;
+    dct:publisher <http://monarchinitiative.org> ;
+    foaf:page <http://monarchinitiative.org/> ;
+    schemaorg:logo <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/logo.png> ;
+    dct:license <http://creativecommons.org/licenses/by-sa/3.0/> ;
+    dct:rights <https://monarch-exomiser-web-dev.monarchinitiative.org/exomiser/legal> ;
+    dct:language <http://lexvo.org/id/iso639-3/eng> ;
+    dcat:theme <http://edamontology.org/topic_0622> ; # edam:genomics
+    dcat:keyword "vcf"^^xsd:string, "monarch"^^xsd:string, "exomiser"^^xsd:string ;
+    ##Vocabulary does not make sense for a non-RDF dataset
+    dct:conformsTo <http://www.w3.org/2001/sw/hcls/notes/hcls-dataset/> ;
+    #Provenance and Change
+    dct:source :Pfeiffer.exomiser_AD.genes ;
+    pav:retrievedFrom <https://github.com/NCBI-Hackathons/FAIR_apps/tree/master/data/exomiser_out> ;
+    #Availability/Distributions
+    dct:format "text/tab-separated-values" ;
+    dcat:accessURL <https://github.com/NCBI-Hackathons/FAIR_apps/tree/master/data/exomiser_out> ;
+    dcat:downloadURL <https://github.com/NCBI-Hackathons/FAIR_apps/raw/master/data/exomiser_out/Pfeiffer.exomiser_AD.genes.tsv> ;
+    dcat:byteSize "84700"^^xsd:decimal .
+
+:exomizer-pfeiffer-activity
+      a prov:Activity ;
+      dct:title "Exomiser Activity" ;
+      prov:used :pfeiffer ;
+      prov:wasAssociatedWith <https://orcid.org/0000-0003-1099-3328> .
+
+<https://orcid.org/0000-0003-1099-3328>
+    a foaf:Person , prov:Person ;
+    foaf:familyName "Nichols" ;
+    foaf:givenName "Nolan" .
