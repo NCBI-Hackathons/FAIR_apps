@@ -17,7 +17,7 @@ This is an idealized scenario, and for pedagogical principles, we are going thro
  
 The exact details of this question are to be suggestive and not necessarily conclusive as the best way to go about this problem, but the goal is to be as useful and pragmatic as possible as we wrap our heads around what are the most important things about FAIR that we need to concern ourselves with.
  
-## Data set:
+## Example Phenotype Data set:
 
   Please find attached the data (and I will be depositing these in github as our starting point).   
  
@@ -36,7 +36,7 @@ The exact details of this question are to be suggestive and not necessarily conc
  
   * Making, keeping the application FAIR:
   
-  Geneweaver
+  Homology service to make a homologous gene list given mouse gene lists go to human gene lists and vice versa
  
   * Making, keeping the data out FAIR:
   
