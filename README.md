@@ -120,4 +120,12 @@ https://www.demo.databiology.net/dbe/userlab/show-project.html?tab=workunits&pro
 ![Slide17](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide17.jpeg)
 ![Slide18](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide18.jpeg)
 ![Slide19](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide19.jpeg)
+![Slide20](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide20.jpeg)
+![Slide21](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide21.jpeg)
+![Slide22](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide22.jpeg)
+![Slide23](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide23.jpeg)
+![Slide24](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide24.jpeg)
+![Slide25](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide25.jpeg)
+![Slide26](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide26.jpeg)
+![Slide27](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide27.jpeg)
 
