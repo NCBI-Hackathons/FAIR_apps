@@ -129,5 +129,3 @@ https://www.demo.databiology.net/dbe/userlab/show-project.html?tab=workunits&pro
 ![Slide26](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide26.jpeg)
 ![Slide27](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide27.jpeg)
 ![Slide28](https://github.com/NCBI-Hackathons/FAIR_apps/blob/master/Slide28.jpeg)
-
-
